@@ -204,325 +204,172 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TRT WORLD
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-List 1
 #EXTM3U
-#EXTINF:-1,☆☆☆☆☆ DEUTSCHLAND ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/10709.ts
-#EXTINF:-1,(DE) Kabel 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/13849.ts
-#EXTINF:-1,(DE) PRO 7 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/14193.ts
-#EXTINF:-1,(DE) Pro 7 Maxx HD
-http://5.255.90.94:1339/live/Zaza/Zaza/13852.ts
-#EXTINF:-1,(DE) RTL Living
-http://5.255.90.94:1339/live/Zaza/Zaza/6312.ts
-#EXTINF:-1,(DE) Sony TV HD
-http://5.255.90.94:1339/live/Zaza/Zaza/7632.ts
-#EXTINF:-1,(DE) 3sat
-http://5.255.90.94:1339/live/Zaza/Zaza/16001.ts
-#EXTINF:-1,(DE) ARD Das Erste
-http://5.255.90.94:1339/live/Zaza/Zaza/16005.ts
-#EXTINF:-1,(DE) Arte
-http://5.255.90.94:1339/live/Zaza/Zaza/589.ts
-#EXTINF:-1,(DE) BR
-http://5.255.90.94:1339/live/Zaza/Zaza/16006.ts
-#EXTINF:-1,(DE) HR
-http://5.255.90.94:1339/live/Zaza/Zaza/16007.ts
-#EXTINF:-1,(DE) NDR
-http://5.255.90.94:1339/live/Zaza/Zaza/14199.ts
-#EXTINF:-1,(DE) RTL
-http://5.255.90.94:1339/live/Zaza/Zaza/15992.ts
-#EXTINF:-1,(DE) RTL 2
-http://5.255.90.94:1339/live/Zaza/Zaza/15993.ts
-#EXTINF:-1,(DE) RTL+
-http://5.255.90.94:1339/live/Zaza/Zaza/15998.ts
-#EXTINF:-1,(DE) RTL Crime
-http://5.255.90.94:1339/live/Zaza/Zaza/16044.ts
-#EXTINF:-1,(DE) RTL Nitro
-http://5.255.90.94:1339/live/Zaza/Zaza/15997.ts
-#EXTINF:-1,(DE) RTL Passion
-http://5.255.90.94:1339/live/Zaza/Zaza/16045.ts
-#EXTINF:-1,(DE) Super RTL
-http://5.255.90.94:1339/live/Zaza/Zaza/15995.ts
-#EXTINF:-1,(DE) Sat 1
-http://5.255.90.94:1339/live/Zaza/Zaza/165.ts
-#EXTINF:-1,(DE) Sixx
-http://5.255.90.94:1339/live/Zaza/Zaza/16033.ts
-#EXTINF:-1,(DE) SWR
-http://5.255.90.94:1339/live/Zaza/Zaza/16009.ts
-#EXTINF:-1,(DE) Tele 5
-http://5.255.90.94:1339/live/Zaza/Zaza/15984.ts
-#EXTINF:-1,(DE) VOX
-http://5.255.90.94:1339/live/Zaza/Zaza/15996.ts
-#EXTINF:-1,(DE) WDR
-http://5.255.90.94:1339/live/Zaza/Zaza/16008.ts
-#EXTINF:-1,(DE) ZDF
-http://5.255.90.94:1339/live/Zaza/Zaza/16000.ts
-#EXTINF:-1,(DE) ZDF infokanal
-http://5.255.90.94:1339/live/Zaza/Zaza/16003.ts
-#EXTINF:-1,(DE) ZDF Neo
-http://5.255.90.94:1339/live/Zaza/Zaza/16004.ts
-#EXTINF:-1,(DE)  Zee One
-http://5.255.90.94:1339/live/Zaza/Zaza/16100.ts
-#EXTINF:-1,(AU) LT1
-http://5.255.90.94:1339/live/Zaza/Zaza/16032.ts
-#EXTINF:-1,(DE) ORF 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/163.ts
-#EXTINF:-1,(DE) ORF 2
-http://5.255.90.94:1339/live/Zaza/Zaza/164.ts
-#EXTINF:-1,(AU) ORF 2
-http://5.255.90.94:1339/live/Zaza/Zaza/16025.ts
-#EXTINF:-1,(DE) Servus TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16034.ts
-#EXTINF:-1,(CH) SRF Eins HD
-http://5.255.90.94:1339/live/Zaza/Zaza/600.ts
-#EXTINF:-1,(CH) SRF Zwei HD
-http://5.255.90.94:1339/live/Zaza/Zaza/3425.ts
-#EXTINF:-1,☆☆☆☆☆ DE - NEWS ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7079.ts
-#EXTINF:-1,(DE) Phoenix HD
-http://5.255.90.94:1339/live/Zaza/Zaza/961.ts
-#EXTINF:-1,(DE) N24 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/356.ts
-#EXTINF:-1,(DE) n-tv
-http://5.255.90.94:1339/live/Zaza/Zaza/15999.ts
-#EXTINF:-1,☆☆☆☆☆ DE - OTHER ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7073.ts
-#EXTINF:-1,(DE) MDR HD
-http://5.255.90.94:1339/live/Zaza/Zaza/1778.ts
-#EXTINF:-1,(DE) NDR HD
-http://5.255.90.94:1339/live/Zaza/Zaza/9895.ts
-#EXTINF:-1,(DE) RBB HD
-http://5.255.90.94:1339/live/Zaza/Zaza/1781.ts
-#EXTINF:-1,(DE) Anixe
-http://5.255.90.94:1339/live/Zaza/Zaza/10100.ts
-#EXTINF:-1,(DE) a.tv
-http://5.255.90.94:1339/live/Zaza/Zaza/16010.ts
-#EXTINF:-1,(DE) ATV
-http://5.255.90.94:1339/live/Zaza/Zaza/14202.ts
-#EXTINF:-1,(DE) Astro TV
-http://5.255.90.94:1339/live/Zaza/Zaza/15987.ts
-#EXTINF:-1,(DE) Equi8
-http://5.255.90.94:1339/live/Zaza/Zaza/15988.ts
-#EXTINF:-1,(DE) Family TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16099.ts
-#EXTINF:-1,(DE) Franken Fernsehen
-http://5.255.90.94:1339/live/Zaza/Zaza/16011.ts
-#EXTINF:-1,(DE) Home Shopping Europe
-http://5.255.90.94:1339/live/Zaza/Zaza/15982.ts
-#EXTINF:-1,(DE) HSE24 Trend
-http://5.255.90.94:1339/live/Zaza/Zaza/15986.ts
-#EXTINF:-1,(DE) intv
-http://5.255.90.94:1339/live/Zaza/Zaza/16012.ts
-#EXTINF:-1,(DE) MediaShop - Meine Einkaufswelt
-http://5.255.90.94:1339/live/Zaza/Zaza/15989.ts
-#EXTINF:-1,(DE) Mediaspar TV Homeshopping
-http://5.255.90.94:1339/live/Zaza/Zaza/15983.ts
-#EXTINF:-1,(AU) Melodie Express
-http://5.255.90.94:1339/live/Zaza/Zaza/16098.ts
-#EXTINF:-1,(DE) Mei Musi TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16026.ts
-#EXTINF:-1,(DE) MeinTVshop
-http://5.255.90.94:1339/live/Zaza/Zaza/15990.ts
-#EXTINF:-1,(DE) München TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16014.ts
-#EXTINF:-1,(DE) Regio TV
-http://5.255.90.94:1339/live/Zaza/Zaza/15981.ts
-#EXTINF:-1,(DE) RFO
-http://5.255.90.94:1339/live/Zaza/Zaza/16015.ts
-#EXTINF:-1,(DE) Romance TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16101.ts
-#EXTINF:-1,(AU) Schau TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16096.ts
-#EXTINF:-1,(DE) Sonnenklar TV
-http://5.255.90.94:1339/live/Zaza/Zaza/15980.ts
-#EXTINF:-1,(AU) StarParadies
-http://5.255.90.94:1339/live/Zaza/Zaza/16097.ts
-#EXTINF:-1,(DE) Ulm-Allgäu
-http://5.255.90.94:1339/live/Zaza/Zaza/16013.ts
-#EXTINF:-1,☆☆☆☆☆ DE - DOCU ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7076.ts
-#EXTINF:-1,(DE) A&E
-http://5.255.90.94:1339/live/Zaza/Zaza/16102.ts
-#EXTINF:-1,(DE) Discovery Channel
-http://5.255.90.94:1339/live/Zaza/Zaza/16041.ts
-#EXTINF:-1,(DE) DMAX
-http://5.255.90.94:1339/live/Zaza/Zaza/15985.ts
-#EXTINF:-1,(DE) National Geographic
-http://5.255.90.94:1339/live/Zaza/Zaza/16040.ts
-#EXTINF:-1,(DE) NatGeo Wild
-http://5.255.90.94:1339/live/Zaza/Zaza/16056.ts
-#EXTINF:-1,(DE) Spiegel Geschichte
-http://5.255.90.94:1339/live/Zaza/Zaza/16065.ts
-#EXTINF:-1,(DE) Welt der Wunder
-http://5.255.90.94:1339/live/Zaza/Zaza/16031.ts
-#EXTINF:-1,☆☆☆☆☆ DE - KIDS ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7078.ts
-#EXTINF:-1,(DE) Disney Channel HD
-http://5.255.90.94:1339/live/Zaza/Zaza/1773.ts
-#EXTINF:-1,(DE) Nickelodeon HD
-http://5.255.90.94:1339/live/Zaza/Zaza/595.ts
-#EXTINF:-1,(DE) Boomerang
-http://5.255.90.94:1339/live/Zaza/Zaza/16053.ts
-#EXTINF:-1,(DE) Cartoon Network
-http://5.255.90.94:1339/live/Zaza/Zaza/16054.ts
-#EXTINF:-1,(DE) Disney Cinemagic
-http://5.255.90.94:1339/live/Zaza/Zaza/16059.ts
-#EXTINF:-1,(DE) Disney Junior
-http://5.255.90.94:1339/live/Zaza/Zaza/16080.ts
-#EXTINF:-1,(DE) Disney XD
-http://5.255.90.94:1339/live/Zaza/Zaza/16081.ts
-#EXTINF:-1,(DE) Junior
-http://5.255.90.94:1339/live/Zaza/Zaza/16077.ts
-#EXTINF:-1,(DE) Kika
-http://5.255.90.94:1339/live/Zaza/Zaza/16002.ts
-#EXTINF:-1,(DE) RIC
-http://5.255.90.94:1339/live/Zaza/Zaza/16029.ts
-#EXTINF:-1,(DE) TOGGO plus
-http://5.255.90.94:1339/live/Zaza/Zaza/15994.ts
-#EXTINF:-1,☆☆☆☆☆ DE - MUSIC ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7077.ts
-#EXTINF:-1,(DE) Deluxe Music HD
-http://5.255.90.94:1339/live/Zaza/Zaza/545.ts
-#EXTINF:-1,(DE) Classica
-http://5.255.90.94:1339/live/Zaza/Zaza/16079.ts
-#EXTINF:-1,(DE) Goldstar TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16073.ts
-#EXTINF:-1,(DE) Jukebox
-http://5.255.90.94:1339/live/Zaza/Zaza/16104.ts
-#EXTINF:-1,(DE) Viva / Comedy Central
-http://5.255.90.94:1339/live/Zaza/Zaza/10101.ts
-#EXTINF:-1,(AU) Folx  TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16027.ts
-#EXTINF:-1,(AU) GO  TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16028.ts
-#EXTINF:-1,(AU) Hitradio OE3
-http://5.255.90.94:1339/live/Zaza/Zaza/16024.ts
-#EXTINF:-1,(AU) Volksmusik TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16095.ts
-#EXTINF:-1,☆☆☆☆☆ DE - CINEMA ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7074.ts
-#EXTINF:-1,(DE) AXN HD
-http://5.255.90.94:1339/live/Zaza/Zaza/13868.ts
-#EXTINF:-1,(DE) FOX HD
-http://5.255.90.94:1339/live/Zaza/Zaza/13867.ts
-#EXTINF:-1,(DE) Universal Channel HD
-http://5.255.90.94:1339/live/Zaza/Zaza/13135.ts
-#EXTINF:-1,(DE) 13th Street
-http://5.255.90.94:1339/live/Zaza/Zaza/16063.ts
-#EXTINF:-1,(DE) AXN
-http://5.255.90.94:1339/live/Zaza/Zaza/16037.ts
-#EXTINF:-1,(DE) Fox Serie
-http://5.255.90.94:1339/live/Zaza/Zaza/16057.ts
-#EXTINF:-1,(DE) Heimatkanal
-http://5.255.90.94:1339/live/Zaza/Zaza/16058.ts
-#EXTINF:-1,(DE) Kinowelt TV
-http://5.255.90.94:1339/live/Zaza/Zaza/16049.ts
-#EXTINF:-1,(DE) MGM Germany
-http://5.255.90.94:1339/live/Zaza/Zaza/16051.ts
-#EXTINF:-1,(DE) Syfy
-http://5.255.90.94:1339/live/Zaza/Zaza/16061.ts
-#EXTINF:-1,(DE) TNT Film
-http://5.255.90.94:1339/live/Zaza/Zaza/16055.ts
-#EXTINF:-1,(DE) TNT Serie
-http://5.255.90.94:1339/live/Zaza/Zaza/16064.ts
-#EXTINF:-1,☆ SKY DE Cinema ☆
-http://5.255.90.94:1339/live/Zaza/Zaza/16123.ts
-#EXTINF:-1,(DE) Sky 3D+
-http://5.255.90.94:1339/live/Zaza/Zaza/15962.ts
-#EXTINF:-1,(DE) Sky Atlantic
-http://5.255.90.94:1339/live/Zaza/Zaza/16046.ts
-#EXTINF:-1,(DE) Sky Cinema
-http://5.255.90.94:1339/live/Zaza/Zaza/16039.ts
-#EXTINF:-1,(DE) Sky Cinema +1
-http://5.255.90.94:1339/live/Zaza/Zaza/16076.ts
-#EXTINF:-1,(DE) Sky Cinema +24
-http://5.255.90.94:1339/live/Zaza/Zaza/16082.ts
-#EXTINF:-1,(DE) Sky Cinema Action
-http://5.255.90.94:1339/live/Zaza/Zaza/16075.ts
-#EXTINF:-1,(DE) Sky Cinema Comedy
-http://5.255.90.94:1339/live/Zaza/Zaza/16074.ts
-#EXTINF:-1,(DE) Sky Cinema Emotion
-http://5.255.90.94:1339/live/Zaza/Zaza/16042.ts
-#EXTINF:-1,(DE) Sky Cinema Family
-http://5.255.90.94:1339/live/Zaza/Zaza/16050.ts
-#EXTINF:-1,(DE) Sky Cinema Hits
-http://5.255.90.94:1339/live/Zaza/Zaza/16062.ts
-#EXTINF:-1,(DE) Sky Cinema Nostalgie
-http://5.255.90.94:1339/live/Zaza/Zaza/16052.ts
-#EXTINF:-1,(DE) Sky Krimi
-http://5.255.90.94:1339/live/Zaza/Zaza/16043.ts
-#EXTINF:-1,(DE) Sky Jin HD
-http://5.255.90.94:1339/live/Zaza/Zaza/10064.ts
-#EXTINF:-1,(DE) Sky Select 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/548.ts
-#EXTINF:-1,(DE) Sky Select 2 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/549.ts
-#EXTINF:-1,(DE) Sky Select 3 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/550.ts
-#EXTINF:-1,(DE) Sky Select 4 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/543.ts
-#EXTINF:-1,(DE) Sky Select 5 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/892.ts
-#EXTINF:-1,(DE) Sky Select 6 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/893.ts
-#EXTINF:-1,(DE) Sky Select 7 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/894.ts
-#EXTINF:-1,(DE) Sky Select 8 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/895.ts
-#EXTINF:-1,☆☆☆☆☆ DE - SPORTS ☆☆☆☆☆
-http://5.255.90.94:1339/live/Zaza/Zaza/7075.ts
-#EXTINF:-1,(DE) Sport 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/180.ts
-#EXTINF:-1,(DE) Sport 1+ HD
-http://5.255.90.94:1339/live/Zaza/Zaza/3424.ts
-#EXTINF:-1,(DE) Sport Digital HD
-http://5.255.90.94:1339/live/Zaza/Zaza/7631.ts
-#EXTINF:-1,(DE) Eurosport 1
-http://5.255.90.94:1339/live/Zaza/Zaza/602.ts
-#EXTINF:-1,(DE) Motorvision
-http://5.255.90.94:1339/live/Zaza/Zaza/16103.ts
-#EXTINF:-1,(DE) Sport 1
-http://5.255.90.94:1339/live/Zaza/Zaza/15991.ts
-#EXTINF:-1,☆ SKY DE Sport ☆
-http://5.255.90.94:1339/live/Zaza/Zaza/16121.ts
-#EXTINF:-1,(DE) Sky Sport News HD
-http://5.255.90.94:1339/live/Zaza/Zaza/1664.ts
-#EXTINF:-1,(DE) Sky Sport 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/182.ts
-#EXTINF:-1,(DE) Sky Sport 2 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/183.ts
-#EXTINF:-1,(DE) Sky Sport Bundesliga 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/181.ts
-#EXTINF:-1,(DE) Sky Sport News
-http://5.255.90.94:1339/live/Zaza/Zaza/14196.ts
-#EXTINF:-1,(DE) Sky Sport 1
-http://5.255.90.94:1339/live/Zaza/Zaza/16047.ts
-#EXTINF:-1,(DE) Sky Sport 2
-http://5.255.90.94:1339/live/Zaza/Zaza/16066.ts
-#EXTINF:-1,(DE) Sky Sport Austria
-http://5.255.90.94:1339/live/Zaza/Zaza/16060.ts
-#EXTINF:-1,(DE) Sky Bundesliga 1
-http://5.255.90.94:1339/live/Zaza/Zaza/16048.ts
-#EXTINF:-1,☆ SKY DE Sport matchtime ☆
-http://5.255.90.94:1339/live/Zaza/Zaza/16124.ts
-#EXTINF:-1,(DE) Sky Sport 3
-http://5.255.90.94:1339/live/Zaza/Zaza/16084.ts
-#EXTINF:-1,(DE) Sky Sport 4
-http://5.255.90.94:1339/live/Zaza/Zaza/16086.ts
-#EXTINF:-1,(DE) Sky Sport 5
-http://5.255.90.94:1339/live/Zaza/Zaza/16088.ts
-#EXTINF:-1,(DE) Sky Sport 6
-http://5.255.90.94:1339/live/Zaza/Zaza/16090.ts
-#EXTINF:-1,(DE) Sky Sport 7
-http://5.255.90.94:1339/live/Zaza/Zaza/16092.ts
-#EXTINF:-1,(DE) Sky Sport 8
-http://5.255.90.94:1339/live/Zaza/Zaza/16068.ts
-#EXTINF:-1,(DE) Sky Sport 9
-http://5.255.90.94:1339/live/Zaza/Zaza/16070.ts
-#EXTINF:-1,(DE) Sky Sport 10
-http://5.255.90.94:1339/live/Zaza/Zaza/16072.ts
-#EXTINF:-1,(DE) Sky Sport 11
-http://5.255.90.94:1339/live/Zaza/Zaza/16094.ts
-#EXTINF:-1,(DE) Sky Bundesliga 2
-http://5.255.90.94:1339/live/Zaza/Zaza/16083.ts
+#EXTINF:-1,DE 13th Street
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1488.m3u8
+#EXTINF:-1,DE 3 sat
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1865.m3u8
+#EXTINF:-1,DE Anixe
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2410.m3u8
+#EXTINF:-1,DE Arte
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2630.m3u8
+#EXTINF:-1,DE Astro
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2422.m3u8
+#EXTINF:-1,DE Atv HD
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2436.m3u8
+#EXTINF:-1,DE Axn
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/619.m3u8
+#EXTINF:-1,DE Comedy Central / Viva
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2775.m3u8
+#EXTINF:-1,DE Das Erste
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2631.m3u8
+#EXTINF:-1,DE Discovery
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1484.m3u8
+#EXTINF:-1,DE Disney Ch
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1493.m3u8
+#EXTINF:-1,DE Dmax
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2430.m3u8
+#EXTINF:-1,DE Drf1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2424.m3u8
+#EXTINF:-1,DE Dw News
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/10208.m3u8
+#EXTINF:-1,DE A & E
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1491.m3u8
+#EXTINF:-1,DE EuroSport
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2439.m3u8
+#EXTINF:-1,DE Fox
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2421.m3u8
+#EXTINF:-1,DE Fox Serie
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1490.m3u8
+#EXTINF:-1,DE History
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2432.m3u8
+#EXTINF:-1,DE HR Fernsehen
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2416.m3u8
+#EXTINF:-1,DE In tv
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2429.m3u8
+#EXTINF:-1,DE Kabel
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1866.m3u8
+#EXTINF:-1,DE Kabel Eins
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2417.m3u8
+#EXTINF:-1,DE Kika
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2408.m3u8
+#EXTINF:-1,DE N 24
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2414.m3u8
+#EXTINF:-1,DE National Geo Wild
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/599.m3u8
+#EXTINF:-1,DE National Geographic
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1483.m3u8
+#EXTINF:-1,DE Ndr
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2427.m3u8
+#EXTINF:-1,DE Nickelodeon
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2413.m3u8
+#EXTINF:-1,DE n-tv
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2406.m3u8
+#EXTINF:-1,DE Boomerang
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1489.m3u8
+#EXTINF:-1,DE ProSieben
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1887.m3u8
+#EXTINF:-1,DE ProSieben Maxx
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2420.m3u8
+#EXTINF:-1,DE Kabel Doku
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2434.m3u8
+#EXTINF:-1,DE Rnf
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2423.m3u8
+#EXTINF:-1,DE Romance
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/603.m3u8
+#EXTINF:-1,DE RTL
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/718.m3u8
+#EXTINF:-1,DE RTL 2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/719.m3u8
+#EXTINF:-1,DE RTL Crime
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1486.m3u8
+#EXTINF:-1,DE RTL Nitro
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/886.m3u8
+#EXTINF:-1,DE RTL Passion
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1487.m3u8
+#EXTINF:-1,DE Sat 1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2407.m3u8
+#EXTINF:-1,DE Sat 1 Gold
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2440.m3u8
+#EXTINF:-1,DE Sixx
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2418.m3u8
+#EXTINF:-1,DE Sky Action
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/581.m3u8
+#EXTINF:-1,DE Sky Atlantic
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1475.m3u8
+#EXTINF:-1,DE Sky BundesLiga 1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/83.m3u8
+#EXTINF:-1,DE Sky BundesLiga 2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/6586.m3u8
+#EXTINF:-1,DE Sky Cinema
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1002.m3u8
+#EXTINF:-1,DE Sky Cinema +24
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1000.m3u8
+#EXTINF:-1,DE Sky Comedy
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/580.m3u8
+#EXTINF:-1,DE Sky Emotion
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/999.m3u8
+#EXTINF:-1,DE Sky Family
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2411.m3u8
+#EXTINF:-1,DE Sky Krimi
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1477.m3u8
+#EXTINF:-1,DE Sky Nostalgie
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1476.m3u8
+#EXTINF:-1,DE Sky Select 1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/6568.m3u8
+#EXTINF:-1,DE Sky Select 2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/6567.m3u8
+#EXTINF:-1,DE Sky Select 3
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/6566.m3u8
+#EXTINF:-1,DE Sky Select 4
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/6565.m3u8
+#EXTINF:-1,DE Sky Select 5
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/6564.m3u8
+#EXTINF:-1,DE Sky Sport 1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/84.m3u8
+#EXTINF:-1,DE Sky Sport 2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/85.m3u8
+#EXTINF:-1,DE Sky Sport Austria
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1482.m3u8
+#EXTINF:-1,DE Sport digital
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2431.m3u8
+#EXTINF:-1,DE Super RTL
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/889.m3u8
+#EXTINF:-1,DE Syfy
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1480.m3u8
+#EXTINF:-1,DE Tlc
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2412.m3u8
+#EXTINF:-1,DE Tnt Serie
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1479.m3u8
+#EXTINF:-1,DE Vox
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/717.m3u8
+#EXTINF:-1,DE WDR
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2428.m3u8
+#EXTINF:-1,DE ZDF
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/890.m3u8
+#EXTINF:-1,DE ZDF Neo
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1492.m3u8
+#EXTINF:-1,DE DAZN Bar 1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23470.m3u8
+#EXTINF:-1,DE DAZN Bar 2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23471.m3u8
+#EXTINF:-1,DE EuroSport 2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23472.m3u8
+#EXTINF:-1,DE Universal
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23486.m3u8
+#EXTINF:-1,DE Disney Cinemagic
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23490.m3u8
+#EXTINF:-1,DE Disney Junior
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23489.m3u8
+#EXTINF:-1,DE Disney XD
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23488.m3u8
+#EXTINF:-1,DE RTL plus
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23491.m3u8
+#EXTINF:-1,DE Kinowelt
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/23507.m3u8
+#EXTINF:-1,DE Zee One
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/2435.m3u8
+#EXTINF:-1,DE Austria: ORF_1
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/891.m3u8
+#EXTINF:-1,DE Austria: ORF_2
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/892.m3u8
