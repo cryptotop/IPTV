@@ -77,7 +77,7 @@ http://amsterdam2.dvrdns.org:14452/live?channelId=401&uid=303&deviceUser=KrekaJu
 http://amsterdam1.dvrdns.org:16880/live?channelId=156&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
 #EXTINF:-1 tvg-id="157" tvg-name="Sky Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="04. Sport",Sky Sport 2
 http://amsterdam1.dvrdns.org:16880/live?channelId=157&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="146" tvg-name="Bundesliga 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="Bundesliga 1
+#EXTINF:-1 tvg-id="146" tvg-name="Bundesliga 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="04. Sport",Sky Bundesliga 1
 http://amsterdam1.dvrdns.org:16880/live?channelId=146&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
 #EXTINF:-1 tvg-id="11" tvg-name="Eurosport HD 2Xtra" tvg-logo="http://facetv.formea.ba:88/imagess/Eurosport2HDXtra.png" group-title="04. Sport",Eurosport HD 2Xtra
 http://amsterdam2.dvrdns.org:14452/live?channelId=11&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
