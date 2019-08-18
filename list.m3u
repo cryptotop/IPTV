@@ -1,4 +1,89 @@
 #EXTM3U
+#EXTINF
+#EXTINF:-1 tvg-id="122" tvg-name="Das Erste HD" tvg-logo="http://facetv.formea.ba:88/imagess/daserste.png" group-title="08. Germany",500. Das Erste HD - 500. Das Erste HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=122&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="123" tvg-name="ZDF HD" tvg-logo="http://facetv.formea.ba:88/imagess/zdf.png" group-title="08. Germany",501. ZDF HD - 501. ZDF HD
+http://toponica.dvrdns.org:8088/live?channelId=123&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="125" tvg-name="RTL HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtlde.png" group-title="08. Germany",502. RTL HD - 502. RTL HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=125&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="126" tvg-name="SAT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/sat1.png" group-title="08. Germany",503. SAT 1 HD - 503. SAT 1 HD
+http://toponica.dvrdns.org:8088/live?channelId=126&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="127" tvg-name="RTL 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtl2de.png" group-title="08. Germany",504. RTL 2 HD.. - 504. RTL 2 HD..
+http://amsterdam2.dvrdns.org:14452/live?channelId=127&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="128" tvg-name="PRO 7 HD" tvg-logo="http://facetv.formea.ba:88/imagess/pro7.png" group-title="08. Germany",505. PRO 7 HD - 505. PRO 7 HD
+http://toponica.dvrdns.org:8088/live?channelId=128&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="129" tvg-name="SIXX HD" tvg-logo="http://facetv.formea.ba:88/imagess/sixx.png" group-title="08. Germany",506. SIXX HD - 506. SIXX HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=129&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="130" tvg-name="KABEL 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/kabel1.png" group-title="08. Germany",507. KABEL 1 HD.. - 507. KABEL 1 HD..
+http://amsterdam2.dvrdns.org:14452/live?channelId=130&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="131" tvg-name="VOX HD" tvg-logo="http://facetv.formea.ba:88/imagess/vox.png" group-title="08. Germany",508. VOX HD - 508. VOX HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=131&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="132" tvg-name="SUPER RTL HD" tvg-logo="http://facetv.formea.ba:88/imagess/superrtl.png" group-title="08. Germany",509. SUPER RTL HD.. - 509. SUPER RTL HD..
+http://lazalazarevic.dvrdns.org:8088/live?channelId=132&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="133" tvg-name="NICKELODEON HD" tvg-logo="http://facetv.formea.ba:88/imagess/nickelodeon.png" group-title="08. Germany",510. NICKELODEON HD..* - 510. NICKELODEON HD..*
+http://lazalazarevic.dvrdns.org:8088/live?channelId=133&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="212" tvg-name="KIKA HD" tvg-logo="http://facetv.formea.ba:88/imagess/kika.png" group-title="08. Germany",512. KIKA HD..° - 512. KIKA HD..°
+http://amsterdam2.dvrdns.org:14452/live?channelId=212&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="278" tvg-name="DMAX HD" tvg-logo="http://facetv.formea.ba:88/imagess/dmax.png" group-title="08. Germany",513. DMAX HD.. - 513. DMAX HD..
+http://amsterdam2.dvrdns.org:14452/live?channelId=278&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="300" tvg-name="Zee.one Bollywood" tvg-logo="http://facetv.formea.ba:88/imagess/ZeeOneHD.png" group-title="08. Germany",514. Zee.one Bollywood.. - 514. Zee.one Bollywood..
+http://lazalazarevic.dvrdns.org:8088/live?channelId=300&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="368" tvg-name="RTL Passion" tvg-logo="http://facetv.formea.ba:88/imagess/rtlpassion.png" group-title="08. Germany",515. RTL Passion DE.. ° - 515. RTL Passion DE.. °
+http://amsterdam2.dvrdns.org:14452/live?channelId=368&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+
+#EXTINF:-1 tvg-id="141" tvg-name="Discovery" tvg-logo="http://facetv.formea.ba:88/imagess/discovery.png" group-title="08. Germany",530. Discovery DE - 530. Discovery DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=141&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="356" tvg-name="National Geographic Wild" tvg-logo="http://facetv.formea.ba:88/imagess/natgeowild.png" group-title="08. Germany",532. National Geographic Wild DE - 532. National Geographic Wild DE
+http://amsterdam3.dvrdns.org:15080/live?channelId=356&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="97" tvg-name="National Geographic" tvg-logo="http://facetv.formea.ba:88/imagess/nationalgeographicchabelde.png" group-title="08. Germany",533. National Geographic DE - 533. National Geographic DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=97&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="96" tvg-name="Animal Planet HD EN" tvg-logo="http://facetv.formea.ba:88/imagess/animal.png" group-title="06. Dokumentarni",350. Animal Planet HD - 350. Animal Planet HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=96&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="250" tvg-name="History Channel EN" tvg-logo="http://facetv.formea.ba:88/imagess/historyHD.png" group-title="06. Dokumentarni",352. History Channel * - 352. History Channel *
+http://amsterdam3.dvrdns.org:15080/live?channelId=250&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+
+#EXTINF:-1 tvg-id="136" tvg-name="Fox" tvg-logo="http://facetv.formea.ba:88/imagess/fox.png" group-title="08. Germany",521. Fox DE - 521. Fox DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=136&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="319" tvg-name="TNT Film" tvg-logo="/noicon.png" group-title="08. Germany",523. TNT Film - 523. TNT Film
+http://amsterdam2.dvrdns.org:14452/live?channelId=319&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="398" tvg-name="Universal Channel" tvg-logo="http://facetv.formea.ba:88/imagess/skyuniversal.png" group-title="08. Germany",Universal Channel - Universal Channel
+http://toponica.dvrdns.org:8088/live?channelId=398&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+
+#EXTINF:-1 tvg-id="138" tvg-name="Sky Cinema +24 DE" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema+24.png" group-title="08. Germany",520. Cinema +24 DE - 520. Cinema +24 DE
+http://amsterdam1.dvrdns.org:16880/live?channelId=138&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="134" tvg-name="Sky Cinema" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema.png" group-title="08. Germany",517. Cinema DE - 517. Cinema DE
+http://toponica.dvrdns.org:8088/live?channelId=134&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="135" tvg-name="Sky Action" tvg-logo="http://facetv.formea.ba:88/imagess/skyaction.png" group-title="08. Germany",518. Action DE - 518. Action DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=135&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="139" tvg-name="Sky Comedy" tvg-logo="http://facetv.formea.ba:88/imagess/skycomedy.png" group-title="08. Germany",522. Comedy DE.. * - 522. Comedy DE.. *
+http://amsterdam2.dvrdns.org:14452/live?channelId=139&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="61" tvg-name="Sky SYFY HD" tvg-logo="http://facetv.formea.ba:88/imagess/syfi.png" group-title="08. Germany",529. SYFY HD - 529. SYFY HD
+http://amsterdam3.dvrdns.org:15080/live?channelId=61&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="286" tvg-name="Sky Cinema +1 HD" tvg-logo="/noicon.png" group-title="08. Germany",537. Film DE 1 test * - 537. Film DE 1 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=286&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="287" tvg-name="Sky Cinema +2 HD" tvg-logo="/noicon.png" group-title="08. Germany",538. Film DE 2 test * - 538. Film DE 2 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=287&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="288" tvg-name="Sky Cinema +3 HD" tvg-logo="/noicon.png" group-title="08. Germany",539. Film DE 3 test * - 539. Film DE 3 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=288&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="289" tvg-name="Sky Cinema +4 HD" tvg-logo="/noicon.png" group-title="08. Germany",540. Film DE 4 test * - 540. Film DE 4 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=289&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="290" tvg-name="Sky Cinema +5 HD" tvg-logo="/noicon.png" group-title="08. Germany",541. Film DE 5 test * - 541. Film DE 5 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=290&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="400" tvg-name="Sky Cinema +6 HD" tvg-logo="/noicon.png" group-title="08. Germany",542. Film DE 6 test * - 542. Film DE 6 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=400&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="401" tvg-name="Sky Cinema +7 HD" tvg-logo="/noicon.png" group-title="08. Germany",543. Film DE 7 test * - 543. Film DE 7 test *
+http://amsterdam2.dvrdns.org:14452/live?channelId=401&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="156" tvg-name="Sky Sport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport1.png" group-title="04. Sport",221. Sport 1 HD GER - 221. Sport 1 HD GER
+http://amsterdam1.dvrdns.org:16880/live?channelId=156&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="157" tvg-name="Sky Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="04. Sport",222. Sport 2 HD GER - 222. Sport 2 HD GER
+http://amsterdam1.dvrdns.org:16880/live?channelId=157&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="146" tvg-name="Bundesliga 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="04. Sport",227. Bundesliga 1 HD - 227. Bundesliga 1 HD
+http://amsterdam1.dvrdns.org:16880/live?channelId=146&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1 tvg-id="11" tvg-name="Eurosport HD 2Xtra" tvg-logo="http://facetv.formea.ba:88/imagess/Eurosport2HDXtra.png" group-title="04. Sport",233. Eurosport HD 2Xtra - 233. Eurosport HD 2Xtra
+http://amsterdam2.dvrdns.org:14452/live?channelId=11&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+
+
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/ALLAH-Icon-Golden-Brown.png" group-title="LABEL",~~~~~~ARABISCH~~~~~~
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
@@ -205,90 +290,3 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TRT WORLD
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1,DE National Geographic
-http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/1483.m3u8
-
-#EXTM3U
-#EXTINF
-#EXTINF:-1 tvg-id="122" tvg-name="Das Erste HD" tvg-logo="http://facetv.formea.ba:88/imagess/daserste.png" group-title="08. Germany",500. Das Erste HD - 500. Das Erste HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=122&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="123" tvg-name="ZDF HD" tvg-logo="http://facetv.formea.ba:88/imagess/zdf.png" group-title="08. Germany",501. ZDF HD - 501. ZDF HD
-http://toponica.dvrdns.org:8088/live?channelId=123&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="125" tvg-name="RTL HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtlde.png" group-title="08. Germany",502. RTL HD - 502. RTL HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=125&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="126" tvg-name="SAT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/sat1.png" group-title="08. Germany",503. SAT 1 HD - 503. SAT 1 HD
-http://toponica.dvrdns.org:8088/live?channelId=126&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="127" tvg-name="RTL 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtl2de.png" group-title="08. Germany",504. RTL 2 HD.. - 504. RTL 2 HD..
-http://amsterdam2.dvrdns.org:14452/live?channelId=127&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="128" tvg-name="PRO 7 HD" tvg-logo="http://facetv.formea.ba:88/imagess/pro7.png" group-title="08. Germany",505. PRO 7 HD - 505. PRO 7 HD
-http://toponica.dvrdns.org:8088/live?channelId=128&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="129" tvg-name="SIXX HD" tvg-logo="http://facetv.formea.ba:88/imagess/sixx.png" group-title="08. Germany",506. SIXX HD - 506. SIXX HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=129&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="130" tvg-name="KABEL 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/kabel1.png" group-title="08. Germany",507. KABEL 1 HD.. - 507. KABEL 1 HD..
-http://amsterdam2.dvrdns.org:14452/live?channelId=130&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="131" tvg-name="VOX HD" tvg-logo="http://facetv.formea.ba:88/imagess/vox.png" group-title="08. Germany",508. VOX HD - 508. VOX HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=131&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="132" tvg-name="SUPER RTL HD" tvg-logo="http://facetv.formea.ba:88/imagess/superrtl.png" group-title="08. Germany",509. SUPER RTL HD.. - 509. SUPER RTL HD..
-http://lazalazarevic.dvrdns.org:8088/live?channelId=132&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="133" tvg-name="NICKELODEON HD" tvg-logo="http://facetv.formea.ba:88/imagess/nickelodeon.png" group-title="08. Germany",510. NICKELODEON HD..* - 510. NICKELODEON HD..*
-http://lazalazarevic.dvrdns.org:8088/live?channelId=133&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="212" tvg-name="KIKA HD" tvg-logo="http://facetv.formea.ba:88/imagess/kika.png" group-title="08. Germany",512. KIKA HD..° - 512. KIKA HD..°
-http://amsterdam2.dvrdns.org:14452/live?channelId=212&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="278" tvg-name="DMAX HD" tvg-logo="http://facetv.formea.ba:88/imagess/dmax.png" group-title="08. Germany",513. DMAX HD.. - 513. DMAX HD..
-http://amsterdam2.dvrdns.org:14452/live?channelId=278&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="300" tvg-name="Zee.one Bollywood" tvg-logo="http://facetv.formea.ba:88/imagess/ZeeOneHD.png" group-title="08. Germany",514. Zee.one Bollywood.. - 514. Zee.one Bollywood..
-http://lazalazarevic.dvrdns.org:8088/live?channelId=300&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="368" tvg-name="RTL Passion" tvg-logo="http://facetv.formea.ba:88/imagess/rtlpassion.png" group-title="08. Germany",515. RTL Passion DE.. ° - 515. RTL Passion DE.. °
-http://amsterdam2.dvrdns.org:14452/live?channelId=368&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-
-#EXTINF:-1 tvg-id="141" tvg-name="Discovery" tvg-logo="http://facetv.formea.ba:88/imagess/discovery.png" group-title="08. Germany",530. Discovery DE - 530. Discovery DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=141&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="356" tvg-name="National Geographic Wild" tvg-logo="http://facetv.formea.ba:88/imagess/natgeowild.png" group-title="08. Germany",532. National Geographic Wild DE - 532. National Geographic Wild DE
-http://amsterdam3.dvrdns.org:15080/live?channelId=356&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="97" tvg-name="National Geographic" tvg-logo="http://facetv.formea.ba:88/imagess/nationalgeographicchabelde.png" group-title="08. Germany",533. National Geographic DE - 533. National Geographic DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=97&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="96" tvg-name="Animal Planet HD EN" tvg-logo="http://facetv.formea.ba:88/imagess/animal.png" group-title="06. Dokumentarni",350. Animal Planet HD - 350. Animal Planet HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=96&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="250" tvg-name="History Channel EN" tvg-logo="http://facetv.formea.ba:88/imagess/historyHD.png" group-title="06. Dokumentarni",352. History Channel * - 352. History Channel *
-http://amsterdam3.dvrdns.org:15080/live?channelId=250&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-
-#EXTINF:-1 tvg-id="136" tvg-name="Fox" tvg-logo="http://facetv.formea.ba:88/imagess/fox.png" group-title="08. Germany",521. Fox DE - 521. Fox DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=136&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="319" tvg-name="TNT Film" tvg-logo="/noicon.png" group-title="08. Germany",523. TNT Film - 523. TNT Film
-http://amsterdam2.dvrdns.org:14452/live?channelId=319&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="398" tvg-name="Universal Channel" tvg-logo="http://facetv.formea.ba:88/imagess/skyuniversal.png" group-title="08. Germany",Universal Channel - Universal Channel
-http://toponica.dvrdns.org:8088/live?channelId=398&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-
-#EXTINF:-1 tvg-id="138" tvg-name="Sky Cinema +24 DE" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema+24.png" group-title="08. Germany",520. Cinema +24 DE - 520. Cinema +24 DE
-http://amsterdam1.dvrdns.org:16880/live?channelId=138&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="134" tvg-name="Sky Cinema" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema.png" group-title="08. Germany",517. Cinema DE - 517. Cinema DE
-http://toponica.dvrdns.org:8088/live?channelId=134&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="135" tvg-name="Sky Action" tvg-logo="http://facetv.formea.ba:88/imagess/skyaction.png" group-title="08. Germany",518. Action DE - 518. Action DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=135&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="139" tvg-name="Sky Comedy" tvg-logo="http://facetv.formea.ba:88/imagess/skycomedy.png" group-title="08. Germany",522. Comedy DE.. * - 522. Comedy DE.. *
-http://amsterdam2.dvrdns.org:14452/live?channelId=139&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="61" tvg-name="Sky SYFY HD" tvg-logo="http://facetv.formea.ba:88/imagess/syfi.png" group-title="08. Germany",529. SYFY HD - 529. SYFY HD
-http://amsterdam3.dvrdns.org:15080/live?channelId=61&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="286" tvg-name="Sky Cinema +1 HD" tvg-logo="/noicon.png" group-title="08. Germany",537. Film DE 1 test * - 537. Film DE 1 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=286&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="287" tvg-name="Sky Cinema +2 HD" tvg-logo="/noicon.png" group-title="08. Germany",538. Film DE 2 test * - 538. Film DE 2 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=287&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="288" tvg-name="Sky Cinema +3 HD" tvg-logo="/noicon.png" group-title="08. Germany",539. Film DE 3 test * - 539. Film DE 3 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=288&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="289" tvg-name="Sky Cinema +4 HD" tvg-logo="/noicon.png" group-title="08. Germany",540. Film DE 4 test * - 540. Film DE 4 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=289&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="290" tvg-name="Sky Cinema +5 HD" tvg-logo="/noicon.png" group-title="08. Germany",541. Film DE 5 test * - 541. Film DE 5 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=290&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="400" tvg-name="Sky Cinema +6 HD" tvg-logo="/noicon.png" group-title="08. Germany",542. Film DE 6 test * - 542. Film DE 6 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=400&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="401" tvg-name="Sky Cinema +7 HD" tvg-logo="/noicon.png" group-title="08. Germany",543. Film DE 7 test * - 543. Film DE 7 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=401&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="156" tvg-name="Sky Sport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport1.png" group-title="04. Sport",221. Sport 1 HD GER - 221. Sport 1 HD GER
-http://amsterdam1.dvrdns.org:16880/live?channelId=156&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="157" tvg-name="Sky Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="04. Sport",222. Sport 2 HD GER - 222. Sport 2 HD GER
-http://amsterdam1.dvrdns.org:16880/live?channelId=157&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="146" tvg-name="Bundesliga 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="04. Sport",227. Bundesliga 1 HD - 227. Bundesliga 1 HD
-http://amsterdam1.dvrdns.org:16880/live?channelId=146&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="11" tvg-name="Eurosport HD 2Xtra" tvg-logo="http://facetv.formea.ba:88/imagess/Eurosport2HDXtra.png" group-title="04. Sport",233. Eurosport HD 2Xtra - 233. Eurosport HD 2Xtra
-http://amsterdam2.dvrdns.org:14452/live?channelId=11&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
