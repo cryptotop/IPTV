@@ -1,540 +1,1272 @@
-#EXTM3U
-#EXTINF
-#EXTINF:-1 tvg-id="1" tvg-name=" Al Jazeera Balkan HD" tvg-logo="http://facetv.formea.ba:88/imagess/aljazeera.png" group-title="", Al Jazeera Balkan HD 
-http://amsterdam2.dvrdns.org:14452/live?channelId=1&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="2" tvg-name="002. BHT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/bht1.png" group-title="", BHT 1 HD 
-http://amsterdam2.dvrdns.org:14452/live?channelId=2&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="3" tvg-name="003. FTV" tvg-logo="http://facetv.formea.ba:88/imagess/ftv.png" group-title="", FTV 
-http://toponica.dvrdns.org:8088/live?channelId=3&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="7" tvg-name="004. FACE HD" tvg-logo="http://facetv.formea.ba:88/imagess/face.png" group-title="", FACE HD 
-http://amsterdam2.dvrdns.org:14452/live?channelId=7&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="4" tvg-name="005. Hayat TV HD" tvg-logo="http://facetv.formea.ba:88/imagess/hayat.png" group-title="", Hayat TV HD 
-http://amsterdam2.dvrdns.org:14452/live?channelId=4&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="20" tvg-name="006. RTS HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtshd.png" group-title="", RTS HD 
-http://amsterdam3.dvrdns.org:15080/live?channelId=20&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="21" tvg-name="007. RTS 1" tvg-logo="http://facetv.formea.ba:88/imagess/rts1.png" group-title="", RTS 1 
-http://amsterdam3.dvrdns.org:15080/live?channelId=21&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="22" tvg-name="008. RTS 2" tvg-logo="http://facetv.formea.ba:88/imagess/rts2.png" group-title="", RTS 2 
-http://amsterdam3.dvrdns.org:15080/live?channelId=22&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="23" tvg-name="009. Prva TV" tvg-logo="http://facetv.formea.ba:88/imagess/prva.png" group-title="", Prva TV 
-http://lazalazarevic.dvrdns.org:8088/live?channelId=23&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="438" tvg-name="010. Pink" tvg-logo="http://facetv.formea.ba:88/imagess/pink.png" group-title="", Pink 
-http://amsterdam1.dvrdns.org:16880/live?channelId=438&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="12" tvg-name="012. OBN" tvg-logo="http://facetv.formea.ba:88/imagess/obn.png" group-title="", OBN 
-http://toponica.dvrdns.org:8088/live?channelId=12&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="395" tvg-name="011. OBN" tvg-logo="http://facetv.formea.ba:88/imagess/obn.png" group-title="", OBN 
-http://amsterdam3.dvrdns.org:15080/live?channelId=395&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="32" tvg-name="013. Nova BH" tvg-logo="/noicon.png" group-title="", Nova BH 
-http://toponica.dvrdns.org:8088/live?channelId=32&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="84" tvg-name="014. Nova TV" tvg-logo="http://facetv.formea.ba:88/imagess/novatv.png" group-title="", Nova TV 
-http://toponica.dvrdns.org:8088/live?channelId=84&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="396" tvg-name="015. Nova TV Max" tvg-logo="http://facetv.formea.ba:88/imagess/novatv.png" group-title="", Nova TV Max 
-http://amsterdam3.dvrdns.org:15080/live?channelId=396&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="85" tvg-name="016. RTL Televizija" tvg-logo="http://facetv.formea.ba:88/imagess/rtl.png" group-title="", RTL Televizija 
-http://toponica.dvrdns.org:8088/live?channelId=85&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="394" tvg-name="017. RTL Televizija Max" tvg-logo="http://facetv.formea.ba:88/imagess/rtl.png" group-title="", RTL Televizija Max 
-http://amsterdam3.dvrdns.org:15080/live?channelId=394&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="79" tvg-name="018. HRT 1" tvg-logo="http://facetv.formea.ba:88/imagess/hrt1.png" group-title="", HRT 1 
-http://amsterdam3.dvrdns.org:15080/live?channelId=79&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="80" tvg-name="019. HRT 2" tvg-logo="http://facetv.formea.ba:88/imagess/hrt2.png" group-title="", HRT 2 
-http://amsterdam3.dvrdns.org:15080/live?channelId=80&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="81" tvg-name="020. HRT 3" tvg-logo="http://facetv.formea.ba:88/imagess/hrt3.png" group-title="", HRT 3 
-http://amsterdam3.dvrdns.org:15080/live?channelId=81&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="82" tvg-name="021. HRT 4" tvg-logo="http://facetv.formea.ba:88/imagess/hrt4.png" group-title="", HRT 4 
-http://amsterdam3.dvrdns.org:15080/live?channelId=82&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="406" tvg-name="022. HRT 5" tvg-logo="http://facetv.formea.ba:88/imagess/hrt5.png" group-title="", HRT 5 
-http://amsterdam1.dvrdns.org:16880/live?channelId=406&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="83" tvg-name="023. Doma Max" tvg-logo="http://facetv.formea.ba:88/imagess/doma.png" group-title="", Doma Max 
-http://amsterdam3.dvrdns.org:15080/live?channelId=83&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="86" tvg-name="024. RTL 2 Hr" tvg-logo="http://facetv.formea.ba:88/imagess/rtl2.png" group-title="", RTL 2 Hr 
-http://lazalazarevic.dvrdns.org:8088/live?channelId=86&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="299" tvg-name="025. Nova M" tvg-logo="/noicon.png" group-title="", Nova M 
-http://toponica.dvrdns.org:8088/live?channelId=299&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="275" tvg-name="026. RTV CG" tvg-logo="http://facetv.formea.ba:88/imagess/rtvcg1.png" group-title="", RTV CG 
-http://amsterdam3.dvrdns.org:15080/live?channelId=275&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="27" tvg-name="036. Happy TV" tvg-logo="http://facetv.formea.ba:88/imagess/happy.png" group-title="", Happy TV 
-http://toponica.dvrdns.org:8088/live?channelId=27&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="314" tvg-name="035. Happy TV" tvg-logo="http://facetv.formea.ba:88/imagess/happy.png" group-title="", Happy TV 
-http://lazalazarevic.dvrdns.org:8088/live?channelId=314&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="341" tvg-name="037. Parovi Live °" tvg-logo="http://facetv.formea.ba:88/imagess/parovilive.png" group-title="",037. Parovi Live 
-http://amsterdam1.dvrdns.org:16880/live?channelId=341&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="9" tvg-name="038. BN Televizija" tvg-logo="http://facetv.formea.ba:88/imagess/bntv.png" group-title="", BN Televizija 
-http://amsterdam2.dvrdns.org:14452/live?channelId=9&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="266" tvg-name="039. Hayat Plus" tvg-logo="http://facetv.formea.ba:88/imagess/hayatplus.png" group-title="", Hayat Plus 
-http://amsterdam2.dvrdns.org:14452/live?channelId=266&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="15" tvg-name="040. TV TK" tvg-logo="http://facetv.formea.ba:88/imagess/TVTK.png" group-title="", TV TK 
-http://lazalazarevic.dvrdns.org:8088/live?channelId=15&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="379" tvg-name="041. TV Slon" tvg-logo="http://facetv.formea.ba:88/imagess/slonextra.png" group-title="", TV Slon 
-http://amsterdam3.dvrdns.org:15080/live?channelId=379&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="378" tvg-name="042. RTV 7" tvg-logo="/noicon.png" group-title="", RTV 7 
-http://toponica.dvrdns.org:8088/live?channelId=378&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="413" tvg-name="043. TV Sarajevo" tvg-logo="http://facetv.formea.ba:88/imagess/tvsarajevo.png" group-title="", TV Sarajevo 
-http://amsterdam2.dvrdns.org:14452/live?channelId=413&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="258" tvg-name="044. N1 * °" tvg-logo="http://facetv.formea.ba:88/imagess/N1RS.png" group-title="",044. N1 * ° - 044. N1 * °
-http://amsterdam1.dvrdns.org:16880/live?channelId=258&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="260" tvg-name="045. Alternativna TV *" tvg-logo="http://facetv.formea.ba:88/imagess/alternativnatv.png" group-title="",045. Alternativna TV * - 045. Alternativna TV *
-http://amsterdam1.dvrdns.org:16880/live?channelId=260&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="294" tvg-name="046. TV 1 *" tvg-logo="http://facetv.formea.ba:88/imagess/tv1.png" group-title="",046. TV 1 * - 046. TV 1 *
-http://toponica.dvrdns.org:8088/live?channelId=294&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="264" tvg-name="047. NTV IC Kakanj *" tvg-logo="http://facetv.formea.ba:88/imagess/ntvickakanj.png" group-title="",047. NTV IC Kakanj * - 047. NTV IC Kakanj *
-http://amsterdam1.dvrdns.org:16880/live?channelId=264&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="334" tvg-name="048. Glas Drine *" tvg-logo="http://facetv.formea.ba:88/imagess/tvGlasDrine.png" group-title="",048. Glas Drine * - 048. Glas Drine *
-http://toponica.dvrdns.org:8088/live?channelId=334&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="409" tvg-name="049. RTV USK" tvg-logo="http://facetv.formea.ba:88/imagess/rtvusk.png" group-title="",049. RTV USK - 049. RTV USK
-http://amsterdam3.dvrdns.org:15080/live?channelId=409&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="410" tvg-name="061. Smart TV" tvg-logo="http://facetv.formea.ba:88/imagess/smarttv.png" group-title="",061. Smart TV - 061. Smart TV
-http://amsterdam2.dvrdns.org:14452/live?channelId=410&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="357" tvg-name="062. RTRS" tvg-logo="http://facetv.formea.ba:88/imagess/rtrs.png" group-title="",062. RTRS - 062. RTRS
-http://amsterdam3.dvrdns.org:15080/live?channelId=357&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="404" tvg-name="063. Prva Max" tvg-logo="http://facetv.formea.ba:88/imagess/prvamax.png" group-title="",063. Prva Max - 063. Prva Max
-http://amsterdam3.dvrdns.org:15080/live?channelId=404&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="405" tvg-name="064. Prva World" tvg-logo="http://facetv.formea.ba:88/imagess/PRVAWORLD.png" group-title="",064. Prva World - 064. Prva World
-http://toponica.dvrdns.org:8088/live?channelId=405&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="247" tvg-name="065. O2 TV" tvg-logo="http://facetv.formea.ba:88/imagess/o2TV.png" group-title="",065. O2 TV - 065. O2 TV
-http://toponica.dvrdns.org:8088/live?channelId=247&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="24" tvg-name="075. Prva Plus *°" tvg-logo="http://facetv.formea.ba:88/imagess/prvaplus.png" group-title="",075. Prva Plus *° - 075. Prva Plus *°
-http://amsterdam3.dvrdns.org:15080/live?channelId=24&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="261" tvg-name="076. Belle Amie" tvg-logo="http://facetv.formea.ba:88/imagess/belleamie.png" group-title="",076. Belle Amie - 076. Belle Amie
-http://amsterdam2.dvrdns.org:14452/live?channelId=261&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="25" tvg-name="077. Nova RS °" tvg-logo="http://facetv.formea.ba:88/imagess/novars.png" group-title="",077. Nova RS ° - 077. Nova RS °
-http://toponica.dvrdns.org:8088/live?channelId=25&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="19" tvg-name="078. Sandzak TV" tvg-logo="http://facetv.formea.ba:88/imagess/sandzak.png" group-title="",078. Sandzak TV - 078. Sandzak TV
-http://lazalazarevic.dvrdns.org:8088/live?channelId=19&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="18" tvg-name="086. RTV Novi Pazar" tvg-logo="http://facetv.formea.ba:88/imagess/novi-pazar.png" group-title="",086. RTV Novi Pazar - 086. RTV Novi Pazar
-http://toponica.dvrdns.org:8088/live?channelId=18&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="327" tvg-name="087. Posavina TV" tvg-logo="http://facetv.formea.ba:88/imagess/posavinatvba.png" group-title="",087. Posavina TV - 087. Posavina TV
-http://amsterdam2.dvrdns.org:14452/live?channelId=327&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="284" tvg-name="088. Z1" tvg-logo="http://facetv.formea.ba:88/imagess/z1.png" group-title="",088. Z1 - 088. Z1
-http://lazalazarevic.dvrdns.org:8088/live?channelId=284&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="419" tvg-name="089. RTL Crime" tvg-logo="http://facetv.formea.ba:88/imagess/rtlcrimehr.png" group-title="",089. RTL Crime - 089. RTL Crime
-http://amsterdam1.dvrdns.org:16880/live?channelId=419&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="418" tvg-name="090. RTL Living" tvg-logo="http://facetv.formea.ba:88/imagess/rtlliving.png" group-title="",090. RTL Living - 090. RTL Living
-http://amsterdam3.dvrdns.org:15080/live?channelId=418&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="417" tvg-name="091. RTL Passion hr" tvg-logo="http://facetv.formea.ba:88/imagess/rtlpassion.png" group-title="",091. RTL Passion hr - 091. RTL Passion hr
-http://amsterdam1.dvrdns.org:16880/live?channelId=417&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="407" tvg-name="092. Laudato TV" tvg-logo="http://facetv.formea.ba:88/imagess/LaudatoTV.png" group-title="",092. Laudato TV - 092. Laudato TV
-http://amsterdam2.dvrdns.org:14452/live?channelId=407&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="14" tvg-name="093. Televizija 5" tvg-logo="http://facetv.formea.ba:88/imagess/kanal5.png" group-title="",093. Televizija 5 - 093. Televizija 5
-http://toponica.dvrdns.org:8088/live?channelId=14&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="340" tvg-name="094. MTV Igman" tvg-logo="http://facetv.formea.ba:88/imagess/MTV.IGMAN.png" group-title="",094. MTV Igman - 094. MTV Igman
-http://amsterdam1.dvrdns.org:16880/live?channelId=340&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="393" tvg-name="110. Nick Junior*°" tvg-logo="/noicon.png" group-title="02. Children",110. Nick Junior*° - 110. Nick Junior*°
-http://amsterdam1.dvrdns.org:16880/live?channelId=393&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="390" tvg-name="111. Minimax °" tvg-logo="http://facetv.formea.ba:88/imagess/Minimax.PNG" group-title="02. Children",111. Minimax ° - 111. Minimax °
-http://amsterdam2.dvrdns.org:14452/live?channelId=390&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="6" tvg-name="112. Hayatovci" tvg-logo="http://facetv.formea.ba:88/imagess/hayatovci.png" group-title="02. Children",112. Hayatovci - 112. Hayatovci
-http://lazalazarevic.dvrdns.org:8088/live?channelId=6&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="374" tvg-name="113. Pink Super Kids" tvg-logo="http://facetv.formea.ba:88/imagess/pinksuperkids.png" group-title="02. Children",113. Pink Super Kids - 113. Pink Super Kids
-http://amsterdam1.dvrdns.org:16880/live?channelId=374&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="274" tvg-name="114. Nickleodon Srb" tvg-logo="/noicon.png" group-title="02. Children",114. Nickleodon Srb - 114. Nickleodon Srb
-http://lazalazarevic.dvrdns.org:8088/live?channelId=274&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="71" tvg-name="115. MiniTV ° *" tvg-logo="http://facetv.formea.ba:88/imagess/mini.png" group-title="02. Children",115. MiniTV ° * - 115. MiniTV ° *
-http://amsterdam3.dvrdns.org:15080/live?channelId=71&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="262" tvg-name="116. Duck TV" tvg-logo="/noicon.png" group-title="02. Children",116. Duck TV - 116. Duck TV
-http://amsterdam2.dvrdns.org:14452/live?channelId=262&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="277" tvg-name="117. Baby Tv" tvg-logo="http://facetv.formea.ba:88/imagess/babytv.png" group-title="02. Children",117. Baby Tv - 117. Baby Tv
-http://lazalazarevic.dvrdns.org:8088/live?channelId=277&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="293" tvg-name="118. RTL Kockica" tvg-logo="http://facetv.formea.ba:88/imagess/rtlkockica.png" group-title="02. Children",118. RTL Kockica - 118. RTL Kockica
-http://toponica.dvrdns.org:8088/live?channelId=293&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="408" tvg-name="119. Pink Kids" tvg-logo="http://facetv.formea.ba:88/imagess/pinkkids.png" group-title="02. Children",119. Pink Kids - 119. Pink Kids
-http://amsterdam1.dvrdns.org:16880/live?channelId=408&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="49" tvg-name="168. Pink Horor" tvg-logo="http://facetv.formea.ba:88/imagess/pinkhoror.png" group-title="03. Pink Media",168. Pink Horor - 168. Pink Horor
-http://amsterdam3.dvrdns.org:15080/live?channelId=49&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="28" tvg-name="150. Pink Srbija" tvg-logo="http://facetv.formea.ba:88/imagess/pink.png" group-title="03. Pink Media",150. Pink Srbija - 150. Pink Srbija
-http://lazalazarevic.dvrdns.org:8088/live?channelId=28&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="29" tvg-name="151. Pink 2" tvg-logo="http://facetv.formea.ba:88/imagess/pink2.png" group-title="03. Pink Media",151. Pink 2 - 151. Pink 2
-http://lazalazarevic.dvrdns.org:8088/live?channelId=29&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="30" tvg-name="152. Pink 3 *" tvg-logo="http://facetv.formea.ba:88/imagess/pink3.png" group-title="03. Pink Media",152. Pink 3 * - 152. Pink 3 *
-http://amsterdam3.dvrdns.org:15080/live?channelId=30&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="437" tvg-name="153. Pink BH" tvg-logo="http://facetv.formea.ba:88/imagess/pinkbih.png" group-title="03. Pink Media",153. Pink BH - 153. Pink BH
-http://amsterdam1.dvrdns.org:16880/live?channelId=437&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="34" tvg-name="155. Pink Premium" tvg-logo="http://facetv.formea.ba:88/imagess/pinkpremium.png" group-title="03. Pink Media",155. Pink Premium - 155. Pink Premium
-http://toponica.dvrdns.org:8088/live?channelId=34&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="42" tvg-name="156. Pink Western" tvg-logo="http://facetv.formea.ba:88/imagess/pinkwestern.png" group-title="03. Pink Media",156. Pink Western - 156. Pink Western
-http://toponica.dvrdns.org:8088/live?channelId=42&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="48" tvg-name="169. Pink World Cinema" tvg-logo="http://facetv.formea.ba:88/imagess/pinkworldcinema.png" group-title="03. Pink Media",169. Pink World Cinema - 169. Pink World Cinema
-http://amsterdam3.dvrdns.org:15080/live?channelId=48&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="35" tvg-name="157. Pink Zabava" tvg-logo="http://facetv.formea.ba:88/imagess/pinkzabava.png" group-title="03. Pink Media",157. Pink Zabava - 157. Pink Zabava
-http://toponica.dvrdns.org:8088/live?channelId=35&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="62" tvg-name="158. Pink Serije" tvg-logo="http://facetv.formea.ba:88/imagess/pinkserije.png" group-title="03. Pink Media",158. Pink Serije - 158. Pink Serije
-http://toponica.dvrdns.org:8088/live?channelId=62&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="43" tvg-name="159. Pink Action" tvg-logo="http://facetv.formea.ba:88/imagess/pinkaction.png" group-title="03. Pink Media",159. Pink Action - 159. Pink Action
-http://toponica.dvrdns.org:8088/live?channelId=43&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="50" tvg-name="160. Pink Comedy" tvg-logo="http://facetv.formea.ba:88/imagess/pinkcomedy.png" group-title="03. Pink Media",160. Pink Comedy - 160. Pink Comedy
-http://amsterdam2.dvrdns.org:14452/live?channelId=50&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="53" tvg-name="161. Pink Extra" tvg-logo="http://facetv.formea.ba:88/imagess/pinkextra.png" group-title="03. Pink Media",161. Pink Extra - 161. Pink Extra
-http://amsterdam3.dvrdns.org:15080/live?channelId=53&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="63" tvg-name="162. Pink Family" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfamily.png" group-title="03. Pink Media",162. Pink Family - 162. Pink Family
-http://lazalazarevic.dvrdns.org:8088/live?channelId=63&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="33" tvg-name="163. Pink Film" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfilm.png" group-title="03. Pink Media",163. Pink Film - 163. Pink Film
-http://toponica.dvrdns.org:8088/live?channelId=33&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="46" tvg-name="164. Pink Movies" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmovies.png" group-title="03. Pink Media",164. Pink Movies - 164. Pink Movies
-http://toponica.dvrdns.org:8088/live?channelId=46&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="416" tvg-name="165. Pink Pedia" tvg-logo="http://facetv.formea.ba:88/imagess/pinkpedia.png" group-title="03. Pink Media",165. Pink Pedia - 165. Pink Pedia
-http://amsterdam2.dvrdns.org:14452/live?channelId=416&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="415" tvg-name="166. Pink Romance" tvg-logo="http://facetv.formea.ba:88/imagess/pinkromance.png" group-title="03. Pink Media",166. Pink Romance - 166. Pink Romance
-http://amsterdam3.dvrdns.org:15080/live?channelId=415&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="283" tvg-name="170. Pink Thriler" tvg-logo="/noicon.png" group-title="03. Pink Media",170. Pink Thriler - 170. Pink Thriler
-http://amsterdam3.dvrdns.org:15080/live?channelId=283&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="296" tvg-name="171. Pink Bravo" tvg-logo="http://facetv.formea.ba:88/imagess/pinkbravo.png" group-title="03. Pink Media",171. Pink Bravo - 171. Pink Bravo
-http://toponica.dvrdns.org:8088/live?channelId=296&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="55" tvg-name="172. Pink Music" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmusic.png" group-title="03. Pink Media",172. Pink Music - 172. Pink Music
-http://toponica.dvrdns.org:8088/live?channelId=55&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="56" tvg-name="173. Pink Music 2" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmusic2.png" group-title="03. Pink Media",173. Pink Music 2 - 173. Pink Music 2
-http://lazalazarevic.dvrdns.org:8088/live?channelId=56&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="37" tvg-name="174. Pink Folk 1" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfolk1.png" group-title="03. Pink Media",174. Pink Folk 1 - 174. Pink Folk 1
-http://toponica.dvrdns.org:8088/live?channelId=37&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="38" tvg-name="175. Pink Folk 2" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfolk2.png" group-title="03. Pink Media",175. Pink Folk 2 - 175. Pink Folk 2
-http://lazalazarevic.dvrdns.org:8088/live?channelId=38&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="39" tvg-name="176. Pink Reality *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkreality.png" group-title="03. Pink Media",176. Pink Reality * - 176. Pink Reality *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=39&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="51" tvg-name="177. Pink Clasic *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkclasik.png" group-title="03. Pink Media",177. Pink Clasic * - 177. Pink Clasic *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=51&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="70" tvg-name="178. Pink Fight Network *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfight.png" group-title="03. Pink Media",178. Pink Fight Network * - 178. Pink Fight Network *
-http://amsterdam1.dvrdns.org:16880/live?channelId=70&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="66" tvg-name="179. Pink Kuvar *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkkuvar.png" group-title="03. Pink Media",179. Pink Kuvar * - 179. Pink Kuvar *
-http://amsterdam1.dvrdns.org:16880/live?channelId=66&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="47" tvg-name="180. Pink Movies 2 *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmovies2.png" group-title="03. Pink Media",180. Pink Movies 2 * - 180. Pink Movies 2 *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=47&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="40" tvg-name="181. Pink Plus *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkplus.png" group-title="03. Pink Media",181. Pink Plus * - 181. Pink Plus *
-http://amsterdam1.dvrdns.org:16880/live?channelId=40&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="280" tvg-name="182. Pink Sci-Fi & Fantasy *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkscifi.png" group-title="03. Pink Media",182. Pink Sci-Fi & Fantasy * - 182. Pink Sci-Fi & Fantasy *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=280&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="41" tvg-name="183. Pink Soap *" tvg-logo="http://facetv.formea.ba:88/imagess/pinksoap.png" group-title="03. Pink Media",183. Pink Soap * - 183. Pink Soap *
-http://amsterdam3.dvrdns.org:15080/live?channelId=41&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="67" tvg-name="184. Pink Style *" tvg-logo="http://facetv.formea.ba:88/imagess/pinkstyle.png" group-title="03. Pink Media",184. Pink Style * - 184. Pink Style *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=67&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="113" tvg-name="200. Arena Sport 1 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport1hr.png" group-title="04. Sport",200. Arena Sport 1 HD hr - 200. Arena Sport 1 HD hr
-http://amsterdam3.dvrdns.org:15080/live?channelId=113&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="114" tvg-name="201. Arena Sport 2 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="04. Sport",201. Arena Sport 2 HD hr - 201. Arena Sport 2 HD hr
-http://amsterdam3.dvrdns.org:15080/live?channelId=114&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="115" tvg-name="202. Arena Sport 3 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport3.png" group-title="04. Sport",202. Arena Sport 3 HD hr - 202. Arena Sport 3 HD hr
-http://amsterdam3.dvrdns.org:15080/live?channelId=115&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="116" tvg-name="203. Arena Sport 4 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="04. Sport",203. Arena Sport 4 HD hr - 203. Arena Sport 4 HD hr
-http://amsterdam3.dvrdns.org:15080/live?channelId=116&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="358" tvg-name="204. Sport Klub 1 HD Hr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="04. Sport",204. Sport Klub 1 HD Hr - 204. Sport Klub 1 HD Hr
-http://amsterdam1.dvrdns.org:16880/live?channelId=358&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="359" tvg-name="205. Sport Klub 2 HD Hr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="04. Sport",205. Sport Klub 2 HD Hr - 205. Sport Klub 2 HD Hr
-http://amsterdam2.dvrdns.org:14452/live?channelId=359&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="360" tvg-name="206. Sport Klub 3 HD Hr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="04. Sport",206. Sport Klub 3 HD Hr - 206. Sport Klub 3 HD Hr
-http://amsterdam3.dvrdns.org:15080/live?channelId=360&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="376" tvg-name="207. Arena Sport 1 sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport1.png" group-title="04. Sport",207. Arena Sport 1 sr - 207. Arena Sport 1 sr
-http://amsterdam1.dvrdns.org:16880/live?channelId=376&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="108" tvg-name="208. Arena Sport Sr 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport1.png" group-title="04. Sport",208. Arena Sport Sr 1 HD - 208. Arena Sport Sr 1 HD
-http://toponica.dvrdns.org:8088/live?channelId=108&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="109" tvg-name="209. Arena Sport Sr 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="04. Sport",209. Arena Sport Sr 2 HD - 209. Arena Sport Sr 2 HD
-http://toponica.dvrdns.org:8088/live?channelId=109&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="110" tvg-name="210. Arena Sport Sr 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport3.png" group-title="04. Sport",210. Arena Sport Sr 3 HD - 210. Arena Sport Sr 3 HD
-http://toponica.dvrdns.org:8088/live?channelId=110&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="111" tvg-name="211. Arena Sport Sr 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="04. Sport",211. Arena Sport Sr 4 HD - 211. Arena Sport Sr 4 HD
-http://toponica.dvrdns.org:8088/live?channelId=111&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="112" tvg-name="212. Arena Sport Sr 5 *" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport5.png" group-title="04. Sport",212. Arena Sport Sr 5 * - 212. Arena Sport Sr 5 *
-http://amsterdam3.dvrdns.org:15080/live?channelId=112&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="119" tvg-name="213. Sport klub HD 1 Sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="04. Sport",213. Sport klub HD 1 Sr - 213. Sport klub HD 1 Sr
-http://amsterdam1.dvrdns.org:16880/live?channelId=119&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="120" tvg-name="214. Sport klub HD 2 Sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="04. Sport",214. Sport klub HD 2 Sr - 214. Sport klub HD 2 Sr
-http://amsterdam3.dvrdns.org:15080/live?channelId=120&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="121" tvg-name="215. Sport klub HD 3 Sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="04. Sport",215. Sport klub HD 3 Sr - 215. Sport klub HD 3 Sr
-http://amsterdam3.dvrdns.org:15080/live?channelId=121&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="117" tvg-name="216. Eurosport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/eurosport.png" group-title="04. Sport",216. Eurosport 1 HD - 216. Eurosport 1 HD
-http://toponica.dvrdns.org:8088/live?channelId=117&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="118" tvg-name="217. Eurosport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/sport1eurosport2.png" group-title="04. Sport",217. Eurosport 2 HD - 217. Eurosport 2 HD
-http://toponica.dvrdns.org:8088/live?channelId=118&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="402" tvg-name="218. BH Premier Liga test" tvg-logo="/noicon.png" group-title="04. Sport",218. BH Premier Liga test - 218. BH Premier Liga test
-http://amsterdam3.dvrdns.org:15080/live?channelId=402&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="373" tvg-name="220. SKY SPORT NEWS" tvg-logo="http://facetv.formea.ba:88/imagess/skysportsnews.png" group-title="04. Sport",220. SKY SPORT NEWS - 220. SKY SPORT NEWS
-http://amsterdam1.dvrdns.org:16880/live?channelId=373&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="156" tvg-name="221. Sport 1 HD GER" tvg-logo="http://facetv.formea.ba:88/imagess/skysport1.png" group-title="04. Sport",221. Sport 1 HD GER - 221. Sport 1 HD GER
-http://amsterdam1.dvrdns.org:16880/live?channelId=156&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="157" tvg-name="222. Sport 2 HD GER" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="04. Sport",222. Sport 2 HD GER - 222. Sport 2 HD GER
-http://amsterdam1.dvrdns.org:16880/live?channelId=157&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="146" tvg-name="227. Bundesliga 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="04. Sport",227. Bundesliga 1 HD - 227. Bundesliga 1 HD
-http://amsterdam1.dvrdns.org:16880/live?channelId=146&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="11" tvg-name="233. Eurosport HD 2Xtra" tvg-logo="http://facetv.formea.ba:88/imagess/Eurosport2HDXtra.png" group-title="04. Sport",233. Eurosport HD 2Xtra - 233. Eurosport HD 2Xtra
-http://amsterdam2.dvrdns.org:14452/live?channelId=11&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="392" tvg-name="234. DAZN 1" tvg-logo="http://facetv.formea.ba:88/imagess/dazn.png" group-title="04. Sport",234. DAZN 1 - 234. DAZN 1
-http://amsterdam3.dvrdns.org:15080/live?channelId=392&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="279" tvg-name="235. DAZN 2" tvg-logo="/noicon.png" group-title="04. Sport",235. DAZN 2 - 235. DAZN 2
-http://amsterdam3.dvrdns.org:15080/live?channelId=279&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="366" tvg-name="236. DAZN 3" tvg-logo="/noicon.png" group-title="04. Sport",236. DAZN 3 - 236. DAZN 3
-http://amsterdam1.dvrdns.org:16880/live?channelId=366&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="421" tvg-name="255. BeinSport 1" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd1.png" group-title="04. Sport",255. BeinSport 1 - 255. BeinSport 1
-http://lazalazarevic.dvrdns.org:8088/live?channelId=421&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="422" tvg-name="256. BeinSport 2" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd2.png" group-title="04. Sport",256. BeinSport 2 - 256. BeinSport 2
-http://toponica.dvrdns.org:8088/live?channelId=422&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="423" tvg-name="257. BeinSport 3" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd3.png" group-title="04. Sport",257. BeinSport 3 - 257. BeinSport 3
-http://lazalazarevic.dvrdns.org:8088/live?channelId=423&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="426" tvg-name="258. Fox Sports 1" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport.png" group-title="04. Sport",258. Fox Sports 1 - 258. Fox Sports 1
-http://toponica.dvrdns.org:8088/live?channelId=426&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="427" tvg-name="259. Fox Sports 2" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport2.png" group-title="04. Sport",259. Fox Sports 2 - 259. Fox Sports 2
-http://lazalazarevic.dvrdns.org:8088/live?channelId=427&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="428" tvg-name="260. Fox Sports 3" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport3.png" group-title="04. Sport",260. Fox Sports 3 - 260. Fox Sports 3
-http://toponica.dvrdns.org:8088/live?channelId=428&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="429" tvg-name="261. Fox Sports 4" tvg-logo="http://facetv.formea.ba:88/imagess/foxsports4.png" group-title="04. Sport",261. Fox Sports 4 - 261. Fox Sports 4
-http://lazalazarevic.dvrdns.org:8088/live?channelId=429&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="343" tvg-name="263. Reprezentacija BiH 2" tvg-logo="/noicon.png" group-title="04. Sport",263. Reprezentacija BiH 2 - 263. Reprezentacija BiH 2
-http://toponica.dvrdns.org:8088/live?channelId=343&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="265" tvg-name="300. Cinestar" tvg-logo="http://facetv.formea.ba:88/imagess/cinestartv.png" group-title="05. Film",300. Cinestar - 300. Cinestar
-http://amsterdam3.dvrdns.org:15080/live?channelId=265&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="335" tvg-name="301. Cinestar Action" tvg-logo="http://facetv.formea.ba:88/imagess/CinestarAction.png" group-title="05. Film",301. Cinestar Action - 301. Cinestar Action
-http://amsterdam2.dvrdns.org:14452/live?channelId=335&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="317" tvg-name="302. CineStar Premiere 1 HD" tvg-logo="/noicon.png" group-title="05. Film",302. CineStar Premiere 1 HD - 302. CineStar Premiere 1 HD
-http://amsterdam1.dvrdns.org:16880/live?channelId=317&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="318" tvg-name="303. CineStar Premiere 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/cinestarpremiere2.png" group-title="05. Film",303. CineStar Premiere 2 HD - 303. CineStar Premiere 2 HD
-http://amsterdam1.dvrdns.org:16880/live?channelId=318&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="93" tvg-name="304. Fox" tvg-logo="http://facetv.formea.ba:88/imagess/fox.png" group-title="05. Film",304. Fox - 304. Fox
-http://amsterdam2.dvrdns.org:14452/live?channelId=93&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="94" tvg-name="305. Fox Crime" tvg-logo="http://facetv.formea.ba:88/imagess/foxcrime.png" group-title="05. Film",305. Fox Crime - 305. Fox Crime
-http://amsterdam2.dvrdns.org:14452/live?channelId=94&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="95" tvg-name="306. Fox Life" tvg-logo="http://facetv.formea.ba:88/imagess/foxlife.png" group-title="05. Film",306. Fox Life - 306. Fox Life
-http://amsterdam3.dvrdns.org:15080/live?channelId=95&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="276" tvg-name="307. FOX MOVIES" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/fox.png" group-title="05. Film",307. FOX MOVIES - 307. FOX MOVIES
-http://amsterdam2.dvrdns.org:14452/live?channelId=276&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="380" tvg-name="308. Cinemacious 1" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",308. Cinemacious 1 - 308. Cinemacious 1
-http://amsterdam1.dvrdns.org:16880/live?channelId=380&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="381" tvg-name="309. Cinemacious 2" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",309. Cinemacious 2 - 309. Cinemacious 2
-http://amsterdam1.dvrdns.org:16880/live?channelId=381&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="382" tvg-name="310. Cinemacious 3" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",310. Cinemacious 3 - 310. Cinemacious 3
-http://amsterdam1.dvrdns.org:16880/live?channelId=382&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="383" tvg-name="311. Cinemacious 4" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",311. Cinemacious 4 - 311. Cinemacious 4
-http://amsterdam1.dvrdns.org:16880/live?channelId=383&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="384" tvg-name="312. Cinemacious 5" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",312. Cinemacious 5 - 312. Cinemacious 5
-http://amsterdam1.dvrdns.org:16880/live?channelId=384&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="385" tvg-name="313. Cinemacious 6" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",313. Cinemacious 6 - 313. Cinemacious 6
-http://amsterdam2.dvrdns.org:14452/live?channelId=385&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="386" tvg-name="314. Cinemacious 7" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",314. Cinemacious 7 - 314. Cinemacious 7
-http://amsterdam2.dvrdns.org:14452/live?channelId=386&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="387" tvg-name="315. Cinemacious 8" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",315. Cinemacious 8 - 315. Cinemacious 8
-http://amsterdam2.dvrdns.org:14452/live?channelId=387&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="90" tvg-name="316. HBO Adria" tvg-logo="http://facetv.formea.ba:88/imagess/hbo1nl.png" group-title="05. Film",316. HBO Adria - 316. HBO Adria
-http://amsterdam2.dvrdns.org:14452/live?channelId=90&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="89" tvg-name="317. HBO 2 ° *" tvg-logo="http://facetv.formea.ba:88/imagess/hbo2nl.png" group-title="05. Film",317. HBO 2 ° * - 317. HBO 2 ° *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=89&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="336" tvg-name="318. HBO 3 HD ° *" tvg-logo="http://facetv.formea.ba:88/imagess/hbo3nl.png" group-title="05. Film",318. HBO 3 HD ° * - 318. HBO 3 HD ° *
-http://amsterdam1.dvrdns.org:16880/live?channelId=336&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="87" tvg-name="319. Cinemax 1 HD * °" tvg-logo="http://facetv.formea.ba:88/imagess/cinemax.png" group-title="05. Film",319. Cinemax 1 HD * ° - 319. Cinemax 1 HD * °
-http://amsterdam1.dvrdns.org:16880/live?channelId=87&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="88" tvg-name="320. Cinemax 2 HD * °" tvg-logo="http://facetv.formea.ba:88/imagess/cinemax2.png" group-title="05. Film",320. Cinemax 2 HD * ° - 320. Cinemax 2 HD * °
-http://lazalazarevic.dvrdns.org:8088/live?channelId=88&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="263" tvg-name="321. Klasik TV ° *" tvg-logo="http://facetv.formea.ba:88/imagess/klasik.png" group-title="05. Film",321. Klasik TV ° * - 321. Klasik TV ° *
-http://amsterdam3.dvrdns.org:15080/live?channelId=263&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="403" tvg-name="NOVA SR" tvg-logo="http://facetv.formea.ba:88/imagess/toptv.png" group-title="",NOVA SR - NOVA SR
-http://amsterdam1.dvrdns.org:16880/live?channelId=403&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="96" tvg-name="350. Animal Planet HD" tvg-logo="http://facetv.formea.ba:88/imagess/animal.png" group-title="06. Dokumentarni",350. Animal Planet HD - 350. Animal Planet HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=96&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="248" tvg-name="351. Discovery ID HD" tvg-logo="http://facetv.formea.ba:88/imagess/DiscoveryID.png" group-title="06. Dokumentarni",351. Discovery ID HD - 351. Discovery ID HD
-http://lazalazarevic.dvrdns.org:8088/live?channelId=248&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="250" tvg-name="352. History Channel *" tvg-logo="http://facetv.formea.ba:88/imagess/historyHD.png" group-title="06. Dokumentarni",352. History Channel * - 352. History Channel *
-http://amsterdam3.dvrdns.org:15080/live?channelId=250&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="104" tvg-name="353. Lov & Ribolov °" tvg-logo="http://facetv.formea.ba:88/imagess/loviribolov.png" group-title="06. Dokumentarni",353. Lov & Ribolov ° - 353. Lov & Ribolov °
-http://amsterdam3.dvrdns.org:15080/live?channelId=104&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="249" tvg-name="354. National Geo SR" tvg-logo="http://facetv.formea.ba:88/imagess/nationalgeographicchabelde.png" group-title="06. Dokumentarni",354. National Geo SR - 354. National Geo SR
-http://lazalazarevic.dvrdns.org:8088/live?channelId=249&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="213" tvg-name="355. Travel Channel HD" tvg-logo="http://facetv.formea.ba:88/imagess/travel%20chanel.png" group-title="06. Dokumentarni",355. Travel Channel HD - 355. Travel Channel HD
-http://lazalazarevic.dvrdns.org:8088/live?channelId=213&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="100" tvg-name="356. Crime Investigation Network" tvg-logo="http://facetv.formea.ba:88/imagess/crimeinvestigation.png" group-title="06. Dokumentarni",356. Crime Investigation Network - 356. Crime Investigation Network
-http://toponica.dvrdns.org:8088/live?channelId=100&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="99" tvg-name="357. Discovery" tvg-logo="http://facetv.formea.ba:88/imagess/discovery.png" group-title="06. Dokumentarni",357. Discovery - 357. Discovery
-http://lazalazarevic.dvrdns.org:8088/live?channelId=99&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="344" tvg-name="358. National Geo Wild" tvg-logo="http://facetv.formea.ba:88/imagess/natgeowild.png" group-title="06. Dokumentarni",358. National Geo Wild - 358. National Geo Wild
-http://amsterdam1.dvrdns.org:16880/live?channelId=344&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="420" tvg-name="359. CBS Reality" tvg-logo="http://facetv.formea.ba:88/imagess/cbsreality.png" group-title="06. Dokumentarni",359. CBS Reality - 359. CBS Reality
-http://amsterdam3.dvrdns.org:15080/live?channelId=420&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="364" tvg-name="360. AXN" tvg-logo="http://facetv.formea.ba:88/imagess/axn%20sp.png" group-title="06. Dokumentarni",360. AXN - 360. AXN
-http://amsterdam3.dvrdns.org:15080/live?channelId=364&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="105" tvg-name="361. TLC" tvg-logo="http://facetv.formea.ba:88/imagess/tlc.png" group-title="06. Dokumentarni",361. TLC - 361. TLC
-http://toponica.dvrdns.org:8088/live?channelId=105&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="259" tvg-name="362. E! *" tvg-logo="http://facetv.formea.ba:88/imagess/entertainment.png" group-title="06. Dokumentarni",362. E! * - 362. E! *
-http://amsterdam3.dvrdns.org:15080/live?channelId=259&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="252" tvg-name="363. Kitchen 24 ° *" tvg-logo="http://facetv.formea.ba:88/imagess/24%20kitchen.png" group-title="06. Dokumentarni",363. Kitchen 24 ° * - 363. Kitchen 24 ° *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=252&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="73" tvg-name="400. DM Sat" tvg-logo="http://facetv.formea.ba:88/imagess/dmsat.png" group-title="07. Muzika",400. DM Sat - 400. DM Sat
-http://amsterdam3.dvrdns.org:15080/live?channelId=73&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="16" tvg-name="401. BN Music" tvg-logo="http://facetv.formea.ba:88/imagess/bnmusic.png" group-title="07. Muzika",401. BN Music - 401. BN Music
-http://amsterdam3.dvrdns.org:15080/live?channelId=16&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="13" tvg-name="402. OTV Valentino" tvg-logo="http://facetv.formea.ba:88/imagess/valentino.png" group-title="07. Muzika",402. OTV Valentino - 402. OTV Valentino
-http://lazalazarevic.dvrdns.org:8088/live?channelId=13&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="5" tvg-name="403. Hayat Folk" tvg-logo="http://facetv.formea.ba:88/imagess/hayatfolk.png" group-title="07. Muzika",403. Hayat Folk - 403. Hayat Folk
-http://amsterdam3.dvrdns.org:15080/live?channelId=5&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="291" tvg-name="404. Hayat Music" tvg-logo="http://facetv.formea.ba:88/imagess/hayatmusic.png" group-title="07. Muzika",404. Hayat Music - 404. Hayat Music
-http://lazalazarevic.dvrdns.org:8088/live?channelId=291&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="295" tvg-name="405. Izvorna TV" tvg-logo="http://facetv.formea.ba:88/imagess/izvornamuzika.png" group-title="07. Muzika",405. Izvorna TV - 405. Izvorna TV
-http://toponica.dvrdns.org:8088/live?channelId=295&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="371" tvg-name="406. IDJ TV ° *" tvg-logo="http://facetv.formea.ba:88/imagess/IDJ%20TV.png" group-title="07. Muzika",406. IDJ TV ° * - 406. IDJ TV ° *
-http://amsterdam3.dvrdns.org:15080/live?channelId=371&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="75" tvg-name="408. CMC *" tvg-logo="http://facetv.formea.ba:88/imagess/cmc.png" group-title="07. Muzika",408. CMC * - 408. CMC *
-http://amsterdam1.dvrdns.org:16880/live?channelId=75&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="76" tvg-name="409. Duga*°" tvg-logo="http://facetv.formea.ba:88/imagess/dugaTV.png" group-title="07. Muzika",409. Duga*° - 409. Duga*°
-http://lazalazarevic.dvrdns.org:8088/live?channelId=76&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="285" tvg-name="410. Grand" tvg-logo="http://facetv.formea.ba:88/imagess/grandtv.png" group-title="07. Muzika",410. Grand - 410. Grand
-http://amsterdam3.dvrdns.org:15080/live?channelId=285&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="412" tvg-name="411. Grand 2" tvg-logo="/noicon.png" group-title="07. Muzika",411. Grand 2 - 411. Grand 2
-http://amsterdam3.dvrdns.org:15080/live?channelId=412&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="177" tvg-name="412. Kopernikus" tvg-logo="http://facetv.formea.ba:88/imagess/Kopernikus1.png" group-title="07. Muzika",412. Kopernikus - 412. Kopernikus
-http://lazalazarevic.dvrdns.org:8088/live?channelId=177&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="375" tvg-name="413. MTV Adria" tvg-logo="http://facetv.formea.ba:88/imagess/mtvadria.png" group-title="07. Muzika",413. MTV Adria - 413. MTV Adria
-http://amsterdam1.dvrdns.org:16880/live?channelId=375&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="251" tvg-name="414. VH1" tvg-logo="http://facetv.formea.ba:88/imagess/vh1.png" group-title="07. Muzika",414. VH1 - 414. VH1
-http://toponica.dvrdns.org:8088/live?channelId=251&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="308" tvg-name="430. MRT 1 ° *" tvg-logo="http://facetv.formea.ba:88/imagess/mrt1.png" group-title="",430. MRT 1 ° * - 430. MRT 1 ° *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=308&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="309" tvg-name="431. MRT 2 ° *" tvg-logo="http://facetv.formea.ba:88/imagess/mrt2.png" group-title="",431. MRT 2 ° * - 431. MRT 2 ° *
-http://amsterdam2.dvrdns.org:14452/live?channelId=309&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="310" tvg-name="432. MRT 3 *" tvg-logo="http://facetv.formea.ba:88/imagess/mrt3.png" group-title="",432. MRT 3 * - 432. MRT 3 *
-http://amsterdam1.dvrdns.org:16880/live?channelId=310&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="267" tvg-name="433. Sitel ° *" tvg-logo="http://facetv.formea.ba:88/imagess/sitel.png" group-title="",433. Sitel ° * - 433. Sitel ° *
-http://amsterdam3.dvrdns.org:15080/live?channelId=267&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="312" tvg-name="434. Sitel 3 ° *" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/705.ts" group-title="",434. Sitel 3 ° * - 434. Sitel 3 ° *
-http://amsterdam1.dvrdns.org:16880/live?channelId=312&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="313" tvg-name="435. Kanal 5 *" tvg-logo="http://facetv.formea.ba:88/imagess/kanal5.png" group-title="",435. Kanal 5 * - 435. Kanal 5 *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=313&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="315" tvg-name="436. Telma ° *" tvg-logo="http://facetv.formea.ba:88/imagess/telma.png" group-title="",436. Telma ° * - 436. Telma ° *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=315&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="316" tvg-name="437. Alfa MK *" tvg-logo="http://facetv.formea.ba:88/imagess/alfamk.png" group-title="",437. Alfa MK * - 437. Alfa MK *
-http://lazalazarevic.dvrdns.org:8088/live?channelId=316&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="337" tvg-name="438. SKY Folk °" tvg-logo="/noicon.png" group-title="",438. SKY Folk ° - 438. SKY Folk °
-http://amsterdam1.dvrdns.org:16880/live?channelId=337&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="338" tvg-name="439. MK Sonce °" tvg-logo="/noicon.png" group-title="",439. MK Sonce ° - 439. MK Sonce °
-http://amsterdam1.dvrdns.org:16880/live?channelId=338&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="339" tvg-name="440. 24 Vesti ° *" tvg-logo="http://facetv.formea.ba:88/imagess/24vesti.png" group-title="",440. 24 Vesti ° * - 440. 24 Vesti ° *
-http://amsterdam1.dvrdns.org:16880/live?channelId=339&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="225" tvg-name="450. RTK 1" tvg-logo="http://facetv.formea.ba:88/imagess/RTK1Sat(Kosovo).png" group-title="09. Bonus programi",450. RTK 1 - 450. RTK 1
-http://lazalazarevic.dvrdns.org:8088/live?channelId=225&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="301" tvg-name="451. RTV 21" tvg-logo="http://facetv.formea.ba:88/imagess/RTV21.png" group-title="09. Bonus programi",451. RTV 21 - 451. RTV 21
-http://amsterdam2.dvrdns.org:14452/live?channelId=301&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="292" tvg-name="452. SHUTEL°" tvg-logo="/noicon.png" group-title="09. Bonus programi",452. SHUTEL° - 452. SHUTEL°
-http://amsterdam1.dvrdns.org:16880/live?channelId=292&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="122" tvg-name="500. Das Erste HD" tvg-logo="http://facetv.formea.ba:88/imagess/daserste.png" group-title="08. Germany",500. Das Erste HD - 500. Das Erste HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=122&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="123" tvg-name="501. ZDF HD" tvg-logo="http://facetv.formea.ba:88/imagess/zdf.png" group-title="08. Germany",501. ZDF HD - 501. ZDF HD
-http://toponica.dvrdns.org:8088/live?channelId=123&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="125" tvg-name="502. RTL HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtlde.png" group-title="08. Germany",502. RTL HD - 502. RTL HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=125&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="126" tvg-name="503. SAT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/sat1.png" group-title="08. Germany",503. SAT 1 HD - 503. SAT 1 HD
-http://toponica.dvrdns.org:8088/live?channelId=126&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="127" tvg-name="504. RTL 2 HD.." tvg-logo="http://facetv.formea.ba:88/imagess/rtl2de.png" group-title="08. Germany",504. RTL 2 HD.. - 504. RTL 2 HD..
-http://amsterdam2.dvrdns.org:14452/live?channelId=127&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="128" tvg-name="505. PRO 7 HD" tvg-logo="http://facetv.formea.ba:88/imagess/pro7.png" group-title="08. Germany",505. PRO 7 HD - 505. PRO 7 HD
-http://toponica.dvrdns.org:8088/live?channelId=128&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="129" tvg-name="506. SIXX HD" tvg-logo="http://facetv.formea.ba:88/imagess/sixx.png" group-title="08. Germany",506. SIXX HD - 506. SIXX HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=129&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="130" tvg-name="507. KABEL 1 HD.." tvg-logo="http://facetv.formea.ba:88/imagess/kabel1.png" group-title="08. Germany",507. KABEL 1 HD.. - 507. KABEL 1 HD..
-http://amsterdam2.dvrdns.org:14452/live?channelId=130&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="131" tvg-name="508. VOX HD" tvg-logo="http://facetv.formea.ba:88/imagess/vox.png" group-title="08. Germany",508. VOX HD - 508. VOX HD
-http://amsterdam2.dvrdns.org:14452/live?channelId=131&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="132" tvg-name="509. SUPER RTL HD.." tvg-logo="http://facetv.formea.ba:88/imagess/superrtl.png" group-title="08. Germany",509. SUPER RTL HD.. - 509. SUPER RTL HD..
-http://lazalazarevic.dvrdns.org:8088/live?channelId=132&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="133" tvg-name="510. NICKELODEON HD..*" tvg-logo="http://facetv.formea.ba:88/imagess/nickelodeon.png" group-title="08. Germany",510. NICKELODEON HD..* - 510. NICKELODEON HD..*
-http://lazalazarevic.dvrdns.org:8088/live?channelId=133&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="212" tvg-name="512. KIKA HD..°" tvg-logo="http://facetv.formea.ba:88/imagess/kika.png" group-title="08. Germany",512. KIKA HD..° - 512. KIKA HD..°
-http://amsterdam2.dvrdns.org:14452/live?channelId=212&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="278" tvg-name="513. DMAX HD.." tvg-logo="http://facetv.formea.ba:88/imagess/dmax.png" group-title="08. Germany",513. DMAX HD.. - 513. DMAX HD..
-http://amsterdam2.dvrdns.org:14452/live?channelId=278&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="300" tvg-name="514. Zee.one Bollywood.." tvg-logo="http://facetv.formea.ba:88/imagess/ZeeOneHD.png" group-title="08. Germany",514. Zee.one Bollywood.. - 514. Zee.one Bollywood..
-http://lazalazarevic.dvrdns.org:8088/live?channelId=300&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="368" tvg-name="515. RTL Passion DE.. °" tvg-logo="http://facetv.formea.ba:88/imagess/rtlpassion.png" group-title="08. Germany",515. RTL Passion DE.. ° - 515. RTL Passion DE.. °
-http://amsterdam2.dvrdns.org:14452/live?channelId=368&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="370" tvg-name="516. NTV.." tvg-logo="http://facetv.formea.ba:88/imagess/ntv.png" group-title="08. Germany",516. NTV.. - 516. NTV..
-http://amsterdam1.dvrdns.org:16880/live?channelId=370&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="134" tvg-name="517. Cinema DE" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema.png" group-title="08. Germany",517. Cinema DE - 517. Cinema DE
-http://toponica.dvrdns.org:8088/live?channelId=134&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="135" tvg-name="518. Action DE" tvg-logo="http://facetv.formea.ba:88/imagess/skyaction.png" group-title="08. Germany",518. Action DE - 518. Action DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=135&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="137" tvg-name="519. Cinema +1 DE" tvg-logo="http://facetv.formea.ba:88/imagess/Cinema+1DE.png" group-title="08. Germany",519. Cinema +1 DE - 519. Cinema +1 DE
-http://toponica.dvrdns.org:8088/live?channelId=137&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="138" tvg-name="520. Cinema +24 DE" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema+24.png" group-title="08. Germany",520. Cinema +24 DE - 520. Cinema +24 DE
-http://amsterdam1.dvrdns.org:16880/live?channelId=138&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="136" tvg-name="521. Fox DE" tvg-logo="http://facetv.formea.ba:88/imagess/fox.png" group-title="08. Germany",521. Fox DE - 521. Fox DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=136&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="139" tvg-name="522. Comedy DE.. *" tvg-logo="http://facetv.formea.ba:88/imagess/skycomedy.png" group-title="08. Germany",522. Comedy DE.. * - 522. Comedy DE.. *
-http://amsterdam2.dvrdns.org:14452/live?channelId=139&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="319" tvg-name="523. TNT Film" tvg-logo="/noicon.png" group-title="08. Germany",523. TNT Film - 523. TNT Film
-http://amsterdam2.dvrdns.org:14452/live?channelId=319&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="320" tvg-name="524. TNT Serie" tvg-logo="http://facetv.formea.ba:88/imagess/TNTSerieHD.png" group-title="08. Germany",524. TNT Serie - 524. TNT Serie
-http://amsterdam1.dvrdns.org:16880/live?channelId=320&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="321" tvg-name="525. Atlantic DE" tvg-logo="http://facetv.formea.ba:88/imagess/skyatlantic.png" group-title="08. Germany",525. Atlantic DE - 525. Atlantic DE
-http://amsterdam1.dvrdns.org:16880/live?channelId=321&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="322" tvg-name="526. 13th street DE" tvg-logo="/noicon.png" group-title="08. Germany",526. 13th street DE - 526. 13th street DE
-http://amsterdam1.dvrdns.org:16880/live?channelId=322&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="365" tvg-name="527. Hits DE" tvg-logo="http://facetv.formea.ba:88/imagess/skyhits.png" group-title="08. Germany",527. Hits DE - 527. Hits DE
-http://amsterdam1.dvrdns.org:16880/live?channelId=365&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="367" tvg-name="528. Krimi DE.. °" tvg-logo="http://facetv.formea.ba:88/imagess/skykrimi.png" group-title="08. Germany",528. Krimi DE.. ° - 528. Krimi DE.. °
-http://amsterdam2.dvrdns.org:14452/live?channelId=367&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="61" tvg-name="529. SYFY HD" tvg-logo="http://facetv.formea.ba:88/imagess/syfi.png" group-title="08. Germany",529. SYFY HD - 529. SYFY HD
-http://amsterdam3.dvrdns.org:15080/live?channelId=61&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="141" tvg-name="530. Discovery DE" tvg-logo="http://facetv.formea.ba:88/imagess/discovery.png" group-title="08. Germany",530. Discovery DE - 530. Discovery DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=141&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="356" tvg-name="532. National Geographic Wild DE" tvg-logo="http://facetv.formea.ba:88/imagess/natgeowild.png" group-title="08. Germany",532. National Geographic Wild DE - 532. National Geographic Wild DE
-http://amsterdam3.dvrdns.org:15080/live?channelId=356&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="97" tvg-name="533. National Geographic DE" tvg-logo="http://facetv.formea.ba:88/imagess/nationalgeographicchabelde.png" group-title="08. Germany",533. National Geographic DE - 533. National Geographic DE
-http://amsterdam2.dvrdns.org:14452/live?channelId=97&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="397" tvg-name="534. Disney Cinemagic.." tvg-logo="http://facetv.formea.ba:88/imagess/DisneyCinemagicHD.png" group-title="08. Germany",534. Disney Cinemagic.. - 534. Disney Cinemagic..
-http://amsterdam1.dvrdns.org:16880/live?channelId=397&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="398" tvg-name="Universal Channel" tvg-logo="http://facetv.formea.ba:88/imagess/skyuniversal.png" group-title="08. Germany",Universal Channel - Universal Channel
-http://toponica.dvrdns.org:8088/live?channelId=398&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="286" tvg-name="537. Film DE 1 test *" tvg-logo="/noicon.png" group-title="08. Germany",537. Film DE 1 test * - 537. Film DE 1 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=286&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="287" tvg-name="538. Film DE 2 test *" tvg-logo="/noicon.png" group-title="08. Germany",538. Film DE 2 test * - 538. Film DE 2 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=287&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="288" tvg-name="539. Film DE 3 test *" tvg-logo="/noicon.png" group-title="08. Germany",539. Film DE 3 test * - 539. Film DE 3 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=288&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="289" tvg-name="540. Film DE 4 test *" tvg-logo="/noicon.png" group-title="08. Germany",540. Film DE 4 test * - 540. Film DE 4 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=289&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="290" tvg-name="541. Film DE 5 test *" tvg-logo="/noicon.png" group-title="08. Germany",541. Film DE 5 test * - 541. Film DE 5 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=290&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="400" tvg-name="542. Film DE 6 test *" tvg-logo="/noicon.png" group-title="08. Germany",542. Film DE 6 test * - 542. Film DE 6 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=400&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="401" tvg-name="543. Film DE 7 test *" tvg-logo="/noicon.png" group-title="08. Germany",543. Film DE 7 test * - 543. Film DE 7 test *
-http://amsterdam2.dvrdns.org:14452/live?channelId=401&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="424" tvg-name="544. ORF 1" tvg-logo="http://facetv.formea.ba:88/imagess/orfeins.png" group-title="08. Germany",544. ORF 1 - 544. ORF 1
-http://toponica.dvrdns.org:8088/live?channelId=424&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="425" tvg-name="545. ORF 2" tvg-logo="http://facetv.formea.ba:88/imagess/orf2.png" group-title="08. Germany",545. ORF 2 - 545. ORF 2
-http://lazalazarevic.dvrdns.org:8088/live?channelId=425&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="305" tvg-name="560. Kanal 5 swe *" tvg-logo="http://facetv.formea.ba:88/imagess/Kanal5-SW.png" group-title="09. Bonus programi",560. Kanal 5 swe * - 560. Kanal 5 swe *
-http://amsterdam1.dvrdns.org:16880/live?channelId=305&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="306" tvg-name="561. STV 1" tvg-logo="/noicon.png" group-title="09. Bonus programi",561. STV 1 - 561. STV 1
-http://amsterdam1.dvrdns.org:16880/live?channelId=306&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="307" tvg-name="562. STV 2" tvg-logo="/noicon.png" group-title="09. Bonus programi",562. STV 2 - 562. STV 2
-http://amsterdam1.dvrdns.org:16880/live?channelId=307&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="304" tvg-name="563. TV 4" tvg-logo="http://facetv.formea.ba:88/imagess/Tv4.png" group-title="09. Bonus programi",563. TV 4 - 563. TV 4
-http://amsterdam1.dvrdns.org:16880/live?channelId=304&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="333" tvg-name="564. TV 8" tvg-logo="http://facetv.formea.ba:88/imagess/trtv8.png" group-title="09. Bonus programi",564. TV 8 - 564. TV 8
-http://amsterdam1.dvrdns.org:16880/live?channelId=333&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="332" tvg-name="565. TV 3" tvg-logo="/noicon.png" group-title="09. Bonus programi",565. TV 3 - 565. TV 3
-http://amsterdam2.dvrdns.org:14452/live?channelId=332&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="303" tvg-name="566. Viasat Action *" tvg-logo="http://facetv.formea.ba:88/imagess/ViasatAction.png" group-title="09. Bonus programi",566. Viasat Action * - 566. Viasat Action *
-http://amsterdam1.dvrdns.org:16880/live?channelId=303&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="329" tvg-name="567. Viasat Film" tvg-logo="http://facetv.formea.ba:88/imagess/ViasatFilm.png" group-title="09. Bonus programi",567. Viasat Film - 567. Viasat Film
-http://amsterdam3.dvrdns.org:15080/live?channelId=329&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="302" tvg-name="568. Viasat Premiere *" tvg-logo="http://facetv.formea.ba:88/imagess/ViasatPremiere.png" group-title="09. Bonus programi",568. Viasat Premiere * - 568. Viasat Premiere *
-http://amsterdam1.dvrdns.org:16880/live?channelId=302&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="331" tvg-name="569. Disney Swe" tvg-logo="http://facetv.formea.ba:88/imagess/disneychannel.png" group-title="09. Bonus programi",569. Disney Swe - 569. Disney Swe
-http://amsterdam2.dvrdns.org:14452/live?channelId=331&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="330" tvg-name="570. C More Action" tvg-logo="http://facetv.formea.ba:88/imagess/CMoreAction.png" group-title="09. Bonus programi",570. C More Action - 570. C More Action
-http://amsterdam1.dvrdns.org:16880/live?channelId=330&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="349" tvg-name="Zadruga Live Test" tvg-logo="http://facetv.formea.ba:88/imagess/rtlz.png" group-title="09. Bonus programi",Zadruga Live Test - Zadruga Live Test
-http://lazalazarevic.dvrdns.org:8088/live?channelId=349&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="350" tvg-name="571. Viasat Sport" tvg-logo="http://facetv.formea.ba:88/imagess/film1action.png" group-title="09. Bonus programi",571. Viasat Sport - 571. Viasat Sport
-http://lazalazarevic.dvrdns.org:8088/live?channelId=350&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="351" tvg-name="C More Fotboll" tvg-logo="http://facetv.formea.ba:88/imagess/film1family.png" group-title="09. Bonus programi",C More Fotboll - C More Fotboll
-http://lazalazarevic.dvrdns.org:8088/live?channelId=351&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="352" tvg-name="C More Live" tvg-logo="http://facetv.formea.ba:88/imagess/filmpremiere.png" group-title="09. Bonus programi",C More Live - C More Live
-http://toponica.dvrdns.org:8088/live?channelId=352&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="353" tvg-name="C More Series" tvg-logo="http://facetv.formea.ba:88/imagess/film1drama.png" group-title="09. Bonus programi",C More Series - C More Series
-http://toponica.dvrdns.org:8088/live?channelId=353&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="354" tvg-name="RTS Muzika" tvg-logo="http://facetv.formea.ba:88/imagess/Film1SundanceNL.png" group-title="09. Bonus programi",RTS Muzika - RTS Muzika
-http://toponica.dvrdns.org:8088/live?channelId=354&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="172" tvg-name="600. Erotik 1" tvg-logo="http://facetv.formea.ba:88/imagess/xxx.png" group-title="10. XXX",600. Erotik 1 - 600. Erotik 1
-http://toponica.dvrdns.org:8088/live?channelId=172&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="173" tvg-name="601. Erotik 2" tvg-logo="http://facetv.formea.ba:88/imagess/xxx.png" group-title="10. XXX",601. Erotik 2 - 601. Erotik 2
-http://toponica.dvrdns.org:8088/live?channelId=173&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="174" tvg-name="602. Erotik 3" tvg-logo="http://facetv.formea.ba:88/imagess/xxx.png" group-title="10. XXX",602. Erotik 3 - 602. Erotik 3
-http://toponica.dvrdns.org:8088/live?channelId=174&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="297" tvg-name="603. Erotik 4" tvg-logo="http://facetv.formea.ba:88/imagess/xxx.png" group-title="10. XXX",603. Erotik 4 - 603. Erotik 4
-http://toponica.dvrdns.org:8088/live?channelId=297&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="298" tvg-name="604. Erotik 5" tvg-logo="http://facetv.formea.ba:88/imagess/xxx.png" group-title="10. XXX",604. Erotik 5 - 604. Erotik 5
-http://toponica.dvrdns.org:8088/live?channelId=298&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="414" tvg-name="Pink HA HA" tvg-logo="/noicon.png" group-title="03. Pink Media",Pink HA HA - Pink HA HA
-http://amsterdam1.dvrdns.org:16880/live?channelId=414&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
-#EXTINF:-1 tvg-id="440" tvg-name="TV Zenica" tvg-logo="/noicon.png" group-title="",TV Zenica - TV Zenica
-http://amsterdam1.dvrdns.org:16880/live?channelId=440&uid=303&deviceUser=KrekaJuni2019&devicePass=KrekaKreka2019
+#EXTINF:-1,DE | FC BAYERN TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122508
+#EXTINF:-1,DE | BAYERN FC TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122507
+#EXTINF:-1,DE | Dazn 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122506
+#EXTINF:-1,DE | Dazn 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122505
+#EXTINF:-1,DE | Eurosport 2 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122504
+#EXTINF:-1,DE | EuroSport 2 Xtra HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122503
+#EXTINF:-1,DE | Sky Bundesliga 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122502
+#EXTINF:-1,DE | Sky Bundesliga 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122501
+#EXTINF:-1,DE | Sky Bundesliga 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122500
+#EXTINF:-1,DE | Sky Bundesliga 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122499
+#EXTINF:-1,DE | Sky Bundesliga 5 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122498
+#EXTINF:-1,DE | Sky Bundesliga 6 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122497
+#EXTINF:-1,DE | Sky Bundesliga 7 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122496
+#EXTINF:-1,DE | Sky Bundesliga 8 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122495
+#EXTINF:-1,DE | Sky Bundesliga 9 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122494
+#EXTINF:-1,DE | Sky Sport 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122493
+#EXTINF:-1,DE | Sky Sport Austria HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122492
+#EXTINF:-1,DE | Sport 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122491
+#EXTINF:-1,DE | Sport Digital HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122490
+#EXTINF:-1,DE. |  AXN HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122516
+#EXTINF:-1,DE. |  Fox HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122515
+#EXTINF:-1,DE. |  Sky 3D
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122541
+#EXTINF:-1,DE. |  Sky Action HD.
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122540
+#EXTINF:-1,DE. |  Sky Atlantic HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122539
+#EXTINF:-1,DE. |  Sky Cinema  1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122538
+#EXTINF:-1,DE. |  SKY CINEMA 24 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122537
+#EXTINF:-1,DE. |  Sky Cinema Family
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122536
+#EXTINF:-1,DE. |  Sky Cinema HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122535
+#EXTINF:-1,DE. |  Sky Comedy HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122534
+#EXTINF:-1,DE. |  Sky Emotion HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122533
+#EXTINF:-1,DE. |  Sky Hits HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122532
+#EXTINF:-1,DE. |  Sky Krimi
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122531
+#EXTINF:-1,DE. |  Sky Nostalgie
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122530
+#EXTINF:-1,DE. |  Sky Select 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122529
+#EXTINF:-1,DE. |  Sky Select 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122528
+#EXTINF:-1,DE. |  Sky Select 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122527
+#EXTINF:-1,DE. |  Sky Select 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122526
+#EXTINF:-1,DE. |  Sky Select 5 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122525
+#EXTINF:-1,DE. |  Sky Select 6 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122524
+#EXTINF:-1,DE. |  Sky Select 7 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122523
+#EXTINF:-1,DE. |  Sky Select 8 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122522
+#EXTINF:-1,DE. |  Sky TNT Serie HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122521
+#EXTINF:-1,DE. |  Sky Universal HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122520
+#EXTINF:-1,DE. |  Syfy HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122519
+#EXTINF:-1,DE. |  TNT Comedy HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122518
+#EXTINF:-1,DE. |  TNT Film TCM
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122517
+#EXTINF:-1,DE. |  Zee One HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122514
+#EXTINF:-1,DE. | Eurosport 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122513
+#EXTINF:-1,DE. | Motorvision TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122512
+#EXTINF:-1,DE. | Sky Sport 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122511
+#EXTINF:-1,DE. | Sky Sport 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122510
+#EXTINF:-1,DE. | Sky Sport News HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122509
+#EXTINF:-1,DE.| 13th Street
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122599
+#EXTINF:-1,DE.| 3sat
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122597
+#EXTINF:-1,DE.| A&E
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122596
+#EXTINF:-1,DE.| ARD HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122595
+#EXTINF:-1,DE.| Boomerang
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122560
+#EXTINF:-1,DE.| Cartoon Network
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122559
+#EXTINF:-1,DE.| DAS ERSTE
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122594
+#EXTINF:-1,DE.| Discovery HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122551
+#EXTINF:-1,DE.| Disney Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122558
+#EXTINF:-1,DE.| Disney Channel HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122557
+#EXTINF:-1,DE.| Disney Cinemagic HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122556
+#EXTINF:-1,DE.| Disney Junior HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122555
+#EXTINF:-1,DE.| Disney XD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122554
+#EXTINF:-1,DE.| E! Entertainement HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122593
+#EXTINF:-1,DE.| E! Entertainm HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122592
+#EXTINF:-1,DE.| History FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122550
+#EXTINF:-1,DE.| Kabel 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122591
+#EXTINF:-1,DE.| Kabel Eins
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122590
+#EXTINF:-1,DE.| Kika HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122589
+#EXTINF:-1,DE.| MTV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122549
+#EXTINF:-1,DE.| N-TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122588
+#EXTINF:-1,DE.| N24
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122548
+#EXTINF:-1,DE.| Nat Geo Wild HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122547
+#EXTINF:-1,DE.| NatGeo Wild HD Germany
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122546
+#EXTINF:-1,DE.| National Geographic FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122545
+#EXTINF:-1,DE.| National Geographic HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122544
+#EXTINF:-1,DE.| Nickelodeon
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122553
+#EXTINF:-1,DE.| Orf 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122587
+#EXTINF:-1,DE.| PHOENIX
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122586
+#EXTINF:-1,DE.| PRO 7 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122585
+#EXTINF:-1,DE.| Pro7 Maxx HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122584
+#EXTINF:-1,DE.| ProSieben Fun HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122583
+#EXTINF:-1,DE.| ProSieben HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122582
+#EXTINF:-1,DE.| RTL
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122581
+#EXTINF:-1,DE.| RTL 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122580
+#EXTINF:-1,DE.| RTL Crime HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122579
+#EXTINF:-1,DE.| RTL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122578
+#EXTINF:-1,DE.| RTL Living
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122577
+#EXTINF:-1,DE.| RTL NITRO
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122576
+#EXTINF:-1,DE.| RTL Passion HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122574
+#EXTINF:-1,DE.| RTL2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122573
+#EXTINF:-1,DE.| Sat 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122572
+#EXTINF:-1,DE.| Sat 1 Gold
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122571
+#EXTINF:-1,DE.| SAT.1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122570
+#EXTINF:-1,DE.| Servus TvHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122569
+#EXTINF:-1,DE.| sixx HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122568
+#EXTINF:-1,DE.| Sky  Emotions HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122567
+#EXTINF:-1,DE.| Sky Arte HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122566
+#EXTINF:-1,DE.| Sky DMAX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122543
+#EXTINF:-1,DE.| Spiegel Wissen
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122542
+#EXTINF:-1,DE.| SRF 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122565
+#EXTINF:-1,DE.| Super RTL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122564
+#EXTINF:-1,DE.| VOX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122563
+#EXTINF:-1,DE.| ZDF
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122562
+#EXTINF:-1,DE.| ZDF NEO HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122561
+#EXTINF:-1,DE | Sky Select 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117756
+#EXTINF:-1,DE | Sky Select 10 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117747
+#EXTINF:-1,DE | Sky Select 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117755
+#EXTINF:-1,DE | Sky Select 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117754
+#EXTINF:-1,DE | Sky Select 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117753
+#EXTINF:-1,DE | Sky Select 5 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117752
+#EXTINF:-1,DE | Sky Select 6 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117751
+#EXTINF:-1,DE | Sky Select 7 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117750
+#EXTINF:-1,DE | Sky Select 8 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117749
+#EXTINF:-1,DE | Sky Select 9 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117748
+#EXTINF:-1,DE |  FILM CLUB 1 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117741
+#EXTINF:-1,DE |  FILM CLUB 2 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117740
+#EXTINF:-1,DE |  FILM CLUB 3 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117739
+#EXTINF:-1,DE |  FILM CLUB 4 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117738
+#EXTINF:-1,DE |  FILM CLUB 5 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117737
+#EXTINF:-1,DE |  MaGicBoX Kino 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117736
+#EXTINF:-1,DE |  MaGicBoX Kino 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117735
+#EXTINF:-1,DE |  MaGicBoX Kino 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117734
+#EXTINF:-1,DE |  MaGicBoX Kino 4
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117733
+#EXTINF:-1,DE |  MaGicBoX Kino 5
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117732
+#EXTINF:-1,DE |  MOVIESINEMA 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117746
+#EXTINF:-1,DE |  MOVIESINEMA 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117745
+#EXTINF:-1,DE | Discovery HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117801
+#EXTINF:-1,DE | Disney Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117831
+#EXTINF:-1,DE | Disney Cinemagic
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117830
+#EXTINF:-1,DE | Disney Junior
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117828
+#EXTINF:-1,DE | Disney XD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117826
+#EXTINF:-1,DE | DMAX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117804
+#EXTINF:-1,DE | E! Entertainm. HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117788
+#EXTINF:-1,DE | EURONEWS GERMAN
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117759
+#EXTINF:-1,DE | Eurosport 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117723
+#EXTINF:-1,DE | Eurosport 1 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117724
+#EXTINF:-1,DE | Eurosport 2 HD Xtra
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117722
+#EXTINF:-1,DE | Fox Serie
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117786
+#EXTINF:-1,DE | History HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117800
+#EXTINF:-1,DE | Junior
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117825
+#EXTINF:-1,DE | kabel eins Doku
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117803
+#EXTINF:-1,DE | kabel eins HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117840
+#EXTINF:-1,DE | KiKA
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117837
+#EXTINF:-1,DE | Kinowelt TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117783
+#EXTINF:-1,DE | Motorvision TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117782
+#EXTINF:-1,DE | MTV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117847
+#EXTINF:-1,DE | N-TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117781
+#EXTINF:-1,DE | Nat Geo Wild HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117792
+#EXTINF:-1,DE | NatGeo HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117791
+#EXTINF:-1,DE | NICKELODEON AT
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117779
+#EXTINF:-1,DE | NITRO
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117822
+#EXTINF:-1,DE | Pro7 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117816
+#EXTINF:-1,DE | Pro7 MAXX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117818
+#EXTINF:-1,DE | Romance TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117778
+#EXTINF:-1,DE | RTL
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117855
+#EXTINF:-1,DE | RTL Crime
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117851
+#EXTINF:-1,DE | RTL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117854
+#EXTINF:-1,DE | RTL2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117853
+#EXTINF:-1,DE | RTL2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117852
+#EXTINF:-1,DE | RTLplus
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117849
+#EXTINF:-1,DE | SAT.1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117844
+#EXTINF:-1,DE | SAT.1 Gold
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117842
+#EXTINF:-1,DE | SAT.1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117843
+#EXTINF:-1,DE | SIXX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117820
+#EXTINF:-1,DE | Sky Atlantic
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117776
+#EXTINF:-1,DE | Sky Atlantic HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117775
+#EXTINF:-1,DE | Sky Cinema
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117774
+#EXTINF:-1,DE | Sky Cinema   1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117772
+#EXTINF:-1,DE | Sky Cinema   24
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117770
+#EXTINF:-1,DE | Sky Cinema  1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117771
+#EXTINF:-1,DE | Sky Cinema  24 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117769
+#EXTINF:-1,DE | Sky Cinema Action
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117768
+#EXTINF:-1,DE | Sky Cinema Action HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117767
+#EXTINF:-1,DE | Sky Cinema Alien HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117762
+#EXTINF:-1,DE | Sky Cinema Comedy
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117766
+#EXTINF:-1,DE | Sky Cinema Emotion
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117761
+#EXTINF:-1,DE | Sky Cinema Family
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117765
+#EXTINF:-1,DE | Sky Cinema HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117773
+#EXTINF:-1,DE | Sky Cinema Hits
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117763
+#EXTINF:-1,DE | Sky Cinema Nostalgie
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117760
+#EXTINF:-1,DE | Sky Krimi
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117777
+#EXTINF:-1,DE | Sky Sport 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117719
+#EXTINF:-1,DE | Sky Sport 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117717
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117718
+#EXTINF:-1,DE | SUPER RTL
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117836
+#EXTINF:-1,DE | SYFY
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117797
+#EXTINF:-1,DE | TLC
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117814
+#EXTINF:-1,DE | TLC HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117846
+#EXTINF:-1,DE | TNT Comedy HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117795
+#EXTINF:-1,DE | TNT Film HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117794
+#EXTINF:-1,DE | TNT Serie
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117785
+#EXTINF:-1,DE | TOGGO plus
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117832
+#EXTINF:-1,DE | VOX
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117860
+#EXTINF:-1,DE | VOX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117859
+#EXTINF:-1,DE | ZDF
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117858
+#EXTINF:-1,DE | ZDF HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117834
+#EXTINF:-1,DE | zdf_neo
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/117856
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★FRANCE★ █ ▇ ▆ ▅ ▄.
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/118687
+#EXTINF:-1,FR | 13EME RUE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122291
+#EXTINF:-1,FR | 13EME RUE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122292
+#EXTINF:-1,FR | 6TER FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122192
+#EXTINF:-1,FR | 6TER HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122193
+#EXTINF:-1,FR | 6TER SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122194
+#EXTINF:-1,FR | A LA CARTE 1 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122467
+#EXTINF:-1,FR | A LA CARTE 10 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122458
+#EXTINF:-1,FR | A LA CARTE 2 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122466
+#EXTINF:-1,FR | A LA CARTE 3 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122465
+#EXTINF:-1,FR | A LA CARTE 4 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122464
+#EXTINF:-1,FR | A LA CARTE 5 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122463
+#EXTINF:-1,FR | A LA CARTE 6 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122462
+#EXTINF:-1,FR | A LA CARTE 7 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122461
+#EXTINF:-1,FR | A LA CARTE 8 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122460
+#EXTINF:-1,FR | A LA CARTE 9 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122459
+#EXTINF:-1,FR | AB MOTEURS FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122416
+#EXTINF:-1,FR | AB MOTEURS SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122417
+#EXTINF:-1,FR | AB1 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122197
+#EXTINF:-1,FR | AB1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122198
+#EXTINF:-1,FR | AB3 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122195
+#EXTINF:-1,FR | AB3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122196
+#EXTINF:-1,FR | ACTION FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122272
+#EXTINF:-1,FR | ACTION HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122271
+#EXTINF:-1,FR | ANIMAUX FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122329
+#EXTINF:-1,FR | ANIMAUX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122328
+#EXTINF:-1,FR | ARTE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122189
+#EXTINF:-1,FR | ARTE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122190
+#EXTINF:-1,FR | ARTE SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122191
+#EXTINF:-1,FR | BEINSPORT 1 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122391
+#EXTINF:-1,FR | BEINSPORT 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122392
+#EXTINF:-1,FR | BEINSPORT 1 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122393
+#EXTINF:-1,FR | BEINSPORT 2 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122388
+#EXTINF:-1,FR | BEINSPORT 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122389
+#EXTINF:-1,FR | BEINSPORT 2 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122390
+#EXTINF:-1,FR | BEINSPORT 3 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122385
+#EXTINF:-1,FR | BEINSPORT 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122386
+#EXTINF:-1,FR | BEINSPORT 3 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122387
+#EXTINF:-1,FR | BEINSPORT MAX 10 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122371
+#EXTINF:-1,FR | BEINSPORT MAX 10 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122372
+#EXTINF:-1,FR | BEINSPORT MAX 4 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122383
+#EXTINF:-1,FR | BEINSPORT MAX 4 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122384
+#EXTINF:-1,FR | BEINSPORT MAX 5 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122381
+#EXTINF:-1,FR | BEINSPORT MAX 5 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122382
+#EXTINF:-1,FR | BEINSPORT MAX 6 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122379
+#EXTINF:-1,FR | BEINSPORT MAX 6 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122380
+#EXTINF:-1,FR | BEINSPORT MAX 7 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122377
+#EXTINF:-1,FR | BEINSPORT MAX 7 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122378
+#EXTINF:-1,FR | BEINSPORT MAX 8 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122375
+#EXTINF:-1,FR | BEINSPORT MAX 8 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122376
+#EXTINF:-1,FR | BEINSPORT MAX 9 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122373
+#EXTINF:-1,FR | BEINSPORT MAX 9 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122374
+#EXTINF:-1,FR | BET HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122290
+#EXTINF:-1,FR | BFM BUSINESS FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122485
+#EXTINF:-1,FR | BFM BUSINESS HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122486
+#EXTINF:-1,FR | BFM PARIS
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122487
+#EXTINF:-1,FR | BFM TV FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122186
+#EXTINF:-1,FR | BFM TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122187
+#EXTINF:-1,FR | BFM TV SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122188
+#EXTINF:-1,FR | BOING FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122368
+#EXTINF:-1,FR | BOING HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122369
+#EXTINF:-1,FR | BOOMERANG FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122366
+#EXTINF:-1,FR | BOOMERANG HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122367
+#EXTINF:-1,FR | BRAVAHD SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122456
+#EXTINF:-1,FR | C8 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122183
+#EXTINF:-1,FR | C8 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122184
+#EXTINF:-1,FR | C8 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122185
+#EXTINF:-1,FR | CANAL CINEMA FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122267
+#EXTINF:-1,FR | CANAL CINEMA HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122268
+#EXTINF:-1,FR | CANAL DECALE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122265
+#EXTINF:-1,FR | CANAL FAMILY FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122263
+#EXTINF:-1,FR | CANAL FAMILY HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122264
+#EXTINF:-1,FR | CANAL FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122269
+#EXTINF:-1,FR | CANAL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122270
+#EXTINF:-1,FR | CANAL J FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122364
+#EXTINF:-1,FR | CANAL J HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122365
+#EXTINF:-1,FR | CANAL SERIES FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122261
+#EXTINF:-1,FR | CANAL SERIES HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122262
+#EXTINF:-1,FR | CANAL SPORT FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122414
+#EXTINF:-1,FR | CANAL SPORT HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122415
+#EXTINF:-1,FR | CARTOON NETWORK FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122362
+#EXTINF:-1,FR | CARTOON NETWORK HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122363
+#EXTINF:-1,FR | CHASSE PECH HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122326
+#EXTINF:-1,FR | CHASSE PECHE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122327
+#EXTINF:-1,FR | CHERIE 25 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122287
+#EXTINF:-1,FR | CHERIE 25 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122288
+#EXTINF:-1,FR | CHERIE 25 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122289
+#EXTINF:-1,FR | Cherie25 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122182
+#EXTINF:-1,FR | CINE CLASSIC FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122259
+#EXTINF:-1,FR | CINE CLASSIC HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122260
+#EXTINF:-1,FR | CINE CLUB  FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122257
+#EXTINF:-1,FR | CINE CLUB HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122258
+#EXTINF:-1,FR | CINE EMOTION FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122255
+#EXTINF:-1,FR | CINE EMOTION HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122256
+#EXTINF:-1,FR | CINE FAMIZ FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122253
+#EXTINF:-1,FR | CINE FAMIZ HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122254
+#EXTINF:-1,FR | CINE FX FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122249
+#EXTINF:-1,FR | CINE FX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122250
+#EXTINF:-1,FR | CINE POLAR FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122247
+#EXTINF:-1,FR | CINE POLAR HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122248
+#EXTINF:-1,FR | CINE PREMIER FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122245
+#EXTINF:-1,FR | CINE PREMIER HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122246
+#EXTINF:-1,FR | CINEISSON FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122251
+#EXTINF:-1,FR | CINEISSON HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122252
+#EXTINF:-1,FR | CNN NEWS
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122179
+#EXTINF:-1,FR | CNEWS FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122483
+#EXTINF:-1,FR | CNEWS HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122484
+#EXTINF:-1,FR | COMEDIE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122285
+#EXTINF:-1,FR | COMEDIE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122286
+#EXTINF:-1,FR | CRIME DISTRICT HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122325
+#EXTINF:-1,FR | CSTAR FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122180
+#EXTINF:-1,FR | CSTAR HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122181
+#EXTINF:-1,FR | DISCOVERY FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122323
+#EXTINF:-1,FR | DISCOVERY HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122324
+#EXTINF:-1,FR | DISCOVERY SCIENCES FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122321
+#EXTINF:-1,FR | DISCOVERY SCIENCES HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122322
+#EXTINF:-1,FR | DISNEY CHANNEL 1 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122361
+#EXTINF:-1,FR | DISNEY CHANNEL FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122358
+#EXTINF:-1,FR | DISNEY CHANNEL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122359
+#EXTINF:-1,FR | DISNEY CINEMA HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122357
+#EXTINF:-1,FR | DISNEY CINEMAGIC FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122356
+#EXTINF:-1,FR | Disney CINEMAGIE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122360
+#EXTINF:-1,FR | DISNEY JUNIOR FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122354
+#EXTINF:-1,FR | DISNEY JUNIOR HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122355
+#EXTINF:-1,FR | DISNEY XD FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122352
+#EXTINF:-1,FR | DISNEY XD HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122353
+#EXTINF:-1,FR | E ENTERTAINMENT FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122283
+#EXTINF:-1,FR | E! ENTERTAINMENT
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122284
+#EXTINF:-1,FR | ELLE GIRL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122282
+#EXTINF:-1,FR | EQUIDIA LIFE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122411
+#EXTINF:-1,FR | EQUIDIA LIFE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122412
+#EXTINF:-1,FR | EQUIDIA Life SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122413
+#EXTINF:-1,FR | EQUIDIA LIVE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122406
+#EXTINF:-1,FR | EQUIDIA LIVE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122409
+#EXTINF:-1,FR | EQUIDIA LIVE SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122410
+#EXTINF:-1,FR | EURONEWS FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122480
+#EXTINF:-1,FR | EURONEWS HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122481
+#EXTINF:-1,FR | EURONEWS SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122482
+#EXTINF:-1,FR | EUROSPORT 1 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122405
+#EXTINF:-1,FR | EUROSPORT 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122408
+#EXTINF:-1,FR | EUROSPORT 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122407
+#EXTINF:-1,FR | EXTREME SPORTS HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122404
+#EXTINF:-1,FR | FOOT 24 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122403
+#EXTINF:-1,FR | FRANCE 2 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122214
+#EXTINF:-1,FR | FRANCE 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122215
+#EXTINF:-1,FR | FRANCE 2 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122216
+#EXTINF:-1,FR | FRANCE 24 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122479
+#EXTINF:-1,FR | FRANCE 3 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122211
+#EXTINF:-1,FR | FRANCE 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122212
+#EXTINF:-1,FR | FRANCE 3 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122213
+#EXTINF:-1,FR | FRANCE 4 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122208
+#EXTINF:-1,FR | FRANCE 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122209
+#EXTINF:-1,FR | FRANCE 4 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122210
+#EXTINF:-1,FR | FRANCE 5 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122205
+#EXTINF:-1,FR | FRANCE 5 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122206
+#EXTINF:-1,FR | FRANCE 5 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122207
+#EXTINF:-1,FR | FRANCE INFO HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122477
+#EXTINF:-1,FR | FRANCE INFO SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122478
+#EXTINF:-1,FR | FRANCE O FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122202
+#EXTINF:-1,FR | FRANCE O HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122203
+#EXTINF:-1,FR | FRANCE O SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122204
+#EXTINF:-1,FR | GAME ONE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122349
+#EXTINF:-1,FR | GAME ONE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122350
+#EXTINF:-1,FR | GAME ONE SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122351
+#EXTINF:-1,FR | GOLF  FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122400
+#EXTINF:-1,FR | GOLF  HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122401
+#EXTINF:-1,FR | GOLF CHANNEL HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122402
+#EXTINF:-1,FR | GULLI FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122346
+#EXTINF:-1,FR | GULLI HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122347
+#EXTINF:-1,FR | GULLI SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122348
+#EXTINF:-1,FR | HISTOIRE HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122319
+#EXTINF:-1,FR | HISTOIRE SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122320
+#EXTINF:-1,FR | I24 NEWS FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122476
+#EXTINF:-1,FR | INFOSPORT FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122398
+#EXTINF:-1,FR | NUMERO 23 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122281
+#EXTINF:-1,FR | OCS CHOC FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122242
+#EXTINF:-1,FR | OCS CHOC HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122243
+#EXTINF:-1,FR | OCS CITY FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122240
+#EXTINF:-1,FR | OCS CITY HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122241
+#EXTINF:-1,FR | OCS GEANTS FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122238
+#EXTINF:-1,FR | OCS GEANTS HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122239
+#EXTINF:-1,FR | OCS MAX FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122236
+#EXTINF:-1,FR | OCS MAX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122237
+#EXTINF:-1,FR | ONE TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122235
+#EXTINF:-1,FR | PARAMOUNT FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122234
+#EXTINF:-1,FR | PARAMOUNT HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122233
+#EXTINF:-1,FR | PARIS PREMIERE FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/122277
+#EXTINF:-1,AL | 21 MIX
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119429
+#EXTINF:-1,AL | 21 PLUS
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119428
+#EXTINF:-1,AL | 24 KITCHEN HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119427
+#EXTINF:-1,AL | 3 PLUS HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119431
+#EXTINF:-1,AL | 7 NEWS
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119430
+#EXTINF:-1,AL | A-Mol TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119426
+#EXTINF:-1,AL | ABC News HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119425
+#EXTINF:-1,AL | Adrianet TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119424
+#EXTINF:-1,AL | Aksion HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119423
+#EXTINF:-1,AL | Al Report
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119422
+#EXTINF:-1,AL | Alb Action HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119421
+#EXTINF:-1,AL | ALB CIFTETELI
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119420
+#EXTINF:-1,AL | Alb Comedy
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119419
+#EXTINF:-1,AL | Alb Folk1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119418
+#EXTINF:-1,AL | ALB HINDI HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119417
+#EXTINF:-1,AL | ALB Hits HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119416
+#EXTINF:-1,AL | Alb Horror HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119415
+#EXTINF:-1,AL | Alb Humor
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119414
+#EXTINF:-1,AL | Alb Humor 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119413
+#EXTINF:-1,AL | Alb Islam
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119412
+#EXTINF:-1,AL | Alb Kids
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119411
+#EXTINF:-1,AL | ALB MUSIC HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119410
+#EXTINF:-1,AL | ALB POPULLORE
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119409
+#EXTINF:-1,AL | Alb Swiss HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119408
+#EXTINF:-1,AL | Alb Thriller HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119407
+#EXTINF:-1,AL | ALB WESTERN HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119406
+#EXTINF:-1,AL | Albanian TV USA
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119405
+#EXTINF:-1,AL | ALBUK HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119404
+#EXTINF:-1,AL | ALSAT HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119403
+#EXTINF:-1,AL | ALSAT M HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119402
+#EXTINF:-1,AL | AMOLTV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119401
+#EXTINF:-1,AL | ANIMAL PLANET HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119400
+#EXTINF:-1,AL | Antena TV Shkoder
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119399
+#EXTINF:-1,AL | Apollon TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119398
+#EXTINF:-1,AL | ART Doku 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119397
+#EXTINF:-1,AL | ART Kino 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119396
+#EXTINF:-1,AL | ART Kino 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119395
+#EXTINF:-1,AL | ART Kino 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119394
+#EXTINF:-1,AL | Art Sport 1 FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119393
+#EXTINF:-1,AL | Art Sport 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119392
+#EXTINF:-1,AL | Art Sport 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119391
+#EXTINF:-1,AL | Arta News HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119390
+#EXTINF:-1,AL | AS Action HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119389
+#EXTINF:-1,AL | Baby TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119388
+#EXTINF:-1,AL | Bang Bang HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119387
+#EXTINF:-1,AL | BB11 Music
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119386
+#EXTINF:-1,AL | BBF MUSIC TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119385
+#EXTINF:-1,AL | Besa TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119384
+#EXTINF:-1,AL | Bluesky TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119383
+#EXTINF:-1,AL | BlueStar Music HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119382
+#EXTINF:-1,AL | BlueStar Popullore HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119381
+#EXTINF:-1,AL | Boomerang
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119380
+#EXTINF:-1,AL | Bubrreci TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119379
+#EXTINF:-1,AL | BURIMI TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119378
+#EXTINF:-1,AL | Camel TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119377
+#EXTINF:-1,AL | CAMERIA TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119376
+#EXTINF:-1,AL | CANAL PLAY
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119375
+#EXTINF:-1,AL | Channel One HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119374
+#EXTINF:-1,AL | CineMania TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119373
+#EXTINF:-1,AL | Club TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119372
+#EXTINF:-1,AL | CMB 24/7
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119371
+#EXTINF:-1,AL | COMEDY CENTRAL EXTRA
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119370
+#EXTINF:-1,AL | Cufo HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119369
+#EXTINF:-1,AL | DASMA TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119368
+#EXTINF:-1,AL | Digi Gold 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119367
+#EXTINF:-1,AL | Digi Gold 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119366
+#EXTINF:-1,AL | Digi Gold 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119365
+#EXTINF:-1,AL | Digi Gold Action HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119364
+#EXTINF:-1,AL | Digi GOLD Atlantic
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119363
+#EXTINF:-1,AL | Digi Gold Cinema HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119362
+#EXTINF:-1,AL | DIGI GOLD FAMILY HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119361
+#EXTINF:-1,AL | Disney Channel HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119360
+#EXTINF:-1,AL | DTV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119359
+#EXTINF:-1,AL | Dukagjini HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119358
+#EXTINF:-1,AL | Elrodi TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119357
+#EXTINF:-1,AL | English Club TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119356
+#EXTINF:-1,AL | Era TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119355
+#EXTINF:-1,AL | Euro AL
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119354
+#EXTINF:-1,AL | Euro Film HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119353
+#EXTINF:-1,AL | EUROSPORT 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119352
+#EXTINF:-1,AL | EUROSPORT 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119351
+#EXTINF:-1,AL | Explorer History
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119350
+#EXTINF:-1,AL | Explorer Natyra
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119349
+#EXTINF:-1,AL | Explorer Shkence HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119348
+#EXTINF:-1,AL | FAST BOX & FUN
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119347
+#EXTINF:-1,AL | FILM AKSION HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119346
+#EXTINF:-1,AL | FILM AUTOR HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119345
+#EXTINF:-1,AL | FILM Box Extra HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119344
+#EXTINF:-1,AL | Film Comedi HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119343
+#EXTINF:-1,AL | FILM DRAMA HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119342
+#EXTINF:-1,AL | Film Drame HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119341
+#EXTINF:-1,AL | Film Dy HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119340
+#EXTINF:-1,AL | FILM EUROFILM
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119339
+#EXTINF:-1,AL | Film Gold 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119338
+#EXTINF:-1,AL | FILM Gold 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119337
+#EXTINF:-1,AL | Film Gold 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119336
+#EXTINF:-1,AL | FILM GOLD HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119335
+#EXTINF:-1,AL | FILM HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119334
+#EXTINF:-1,AL | Film Hits HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119333
+#EXTINF:-1,AL | Film Komedi
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119332
+#EXTINF:-1,AL | Film Komedy
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119331
+#EXTINF:-1,AL | Film Nje FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119330
+#EXTINF:-1,AL | FILM Stinet HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119329
+#EXTINF:-1,AL | Film Thriller HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119328
+#EXTINF:-1,AL | Filma Action HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119327
+#EXTINF:-1,AL | Filmi Umeri
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119326
+#EXTINF:-1,AL | FIRST Burimi TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119325
+#EXTINF:-1,AL | First Channel HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119324
+#EXTINF:-1,AL | FOLK HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119323
+#EXTINF:-1,AL | Folk lorit
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119322
+#EXTINF:-1,AL | FOLLK
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119321
+#EXTINF:-1,AL | FOX CRIME HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119320
+#EXTINF:-1,AL | FOX HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119319
+#EXTINF:-1,AL | FOX LIFE
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119318
+#EXTINF:-1,AL | Fox Movie HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119317
+#EXTINF:-1,AL | FOX News
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119316
+#EXTINF:-1,AL | France 24 (AR)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119315
+#EXTINF:-1,AL | Galaxy HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119314
+#EXTINF:-1,AL | GOLD ATLANTIC
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119313
+#EXTINF:-1,AL | HBO 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119312
+#EXTINF:-1,AL | HBO 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119311
+#EXTINF:-1,AL | History Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119310
+#EXTINF:-1,AL | HUMOR 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119309
+#EXTINF:-1,AL | Igman Tv Islam
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119308
+#EXTINF:-1,AL | IN TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119307
+#EXTINF:-1,AL | Islam Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119306
+#EXTINF:-1,AL | Jim Jam
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119305
+#EXTINF:-1,AL | Jolly FHD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119304
+#EXTINF:-1,AL | Junior TV HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119303
+#EXTINF:-1,AL | K GOLD 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119302
+#EXTINF:-1,AL | K Sport 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119301
+#EXTINF:-1,AL | K Sport 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119300
+#EXTINF:-1,AL | K Sport 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119299
+#EXTINF:-1,AL | K Sport 4 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119298
+#EXTINF:-1,AL | Kafeneja CMB
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119297
+#EXTINF:-1,AL | Kanal 7 News
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119296
+#EXTINF:-1,AL | KINO COMEDI
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119295
+#EXTINF:-1,AL | Kino Drama HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119294
+#EXTINF:-1,AL | Kino Gold 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119293
+#EXTINF:-1,AL | Kino Horro HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119292
+#EXTINF:-1,AL | Kino Pranks
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119291
+#EXTINF:-1,AL | KINO PREMIERE 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119290
+#EXTINF:-1,AL | KINO PREMIERE 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119289
+#EXTINF:-1,AL | KINO Premium 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119288
+#EXTINF:-1,AL | KINO ROMANCE
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119287
+#EXTINF:-1,AL | Klan HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119286
+#EXTINF:-1,AL | KLAN KOSOVA HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119285
+#EXTINF:-1,AL | KLAN Macedonia
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/119284
+#EXTINF:-1,EX-YU | 24 Kitchen
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120555
+#EXTINF:-1,EX-YU | Al Jazeera Balkan
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120554
+#EXTINF:-1,EX-YU | Alfa (Mk)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120553
+#EXTINF:-1,EX-YU | Arena Sport 1 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120552
+#EXTINF:-1,EX-YU | Arena Sport 1 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120551
+#EXTINF:-1,EX-YU | Arena Sport 2 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120550
+#EXTINF:-1,EX-YU | Arena Sport 2 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120549
+#EXTINF:-1,EX-YU | Arena Sport 3 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120548
+#EXTINF:-1,EX-YU | Arena Sport 3 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120547
+#EXTINF:-1,EX-YU | Arena Sport 4 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120546
+#EXTINF:-1,EX-YU | Arena Sport 4 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120545
+#EXTINF:-1,EX-YU | Arena Sport 5 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120544
+#EXTINF:-1,EX-YU | Arena Sport 5 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120543
+#EXTINF:-1,EX-YU | ATV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120542
+#EXTINF:-1,EX-YU | AXN
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120541
+#EXTINF:-1,EX-YU | B92
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120540
+#EXTINF:-1,EX-YU | Cinemax 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120539
+#EXTINF:-1,EX-YU | Cinemax 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120538
+#EXTINF:-1,EX-YU | Cinestar Action
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120537
+#EXTINF:-1,EX-YU | Cinestar TV Premiere 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120536
+#EXTINF:-1,EX-YU | Cinestar TV Premiere 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120535
+#EXTINF:-1,EX-YU | CmC
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120534
+#EXTINF:-1,EX-YU | Discovery Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120533
+#EXTINF:-1,EX-YU | Disovery ID Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120532
+#EXTINF:-1,EX-YU | DM Sat
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120531
+#EXTINF:-1,EX-YU | Doma TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120530
+#EXTINF:-1,EX-YU | EuroSport 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120529
+#EXTINF:-1,EX-YU | EuroSport 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120528
+#EXTINF:-1,EX-YU | Filmbox Extra
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120527
+#EXTINF:-1,EX-YU | FOX
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120526
+#EXTINF:-1,EX-YU | Fox Crime
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120525
+#EXTINF:-1,EX-YU | Fox Life
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120524
+#EXTINF:-1,EX-YU | Fox Movies
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120523
+#EXTINF:-1,EX-YU | Happy TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120522
+#EXTINF:-1,EX-YU | Hayat Folk
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120521
+#EXTINF:-1,EX-YU | Hayat HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120520
+#EXTINF:-1,EX-YU | Hayat Music
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120519
+#EXTINF:-1,EX-YU | Hayat Plus
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120518
+#EXTINF:-1,EX-YU | Hayatovci
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120517
+#EXTINF:-1,EX-YU | HBO
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120516
+#EXTINF:-1,EX-YU | HBO 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120515
+#EXTINF:-1,EX-YU | HBO 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120514
+#EXTINF:-1,EX-YU | History Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120513
+#EXTINF:-1,EX-YU | History Channel 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120512
+#EXTINF:-1,EX-YU | HRT 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120511
+#EXTINF:-1,EX-YU | HRT 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120510
+#EXTINF:-1,EX-YU | HRT 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120509
+#EXTINF:-1,EX-YU | HRT 4
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120508
+#EXTINF:-1,EX-YU | Klasik TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120507
+#EXTINF:-1,EX-YU | Lov i Ribolov
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120506
+#EXTINF:-1,EX-YU | Minimax
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120505
+#EXTINF:-1,EX-YU | MRT 1 (Mk)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120504
+#EXTINF:-1,EX-YU | MRT 2 (Mk)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120503
+#EXTINF:-1,EX-YU | MTV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120502
+#EXTINF:-1,EX-YU | N1 BIH
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120501
+#EXTINF:-1,EX-YU | National Geographic Channel
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120500
+#EXTINF:-1,EX-YU | National Geographic Wild
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120499
+#EXTINF:-1,EX-YU | Nickelodeon
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120498
+#EXTINF:-1,EX-YU | Nova TV (HR)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120497
+#EXTINF:-1,EX-YU | OBN
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120496
+#EXTINF:-1,EX-YU | Pink
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120495
+#EXTINF:-1,EX-YU | Pink 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120494
+#EXTINF:-1,EX-YU | Pink 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120493
+#EXTINF:-1,EX-YU | Pink Action
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120492
+#EXTINF:-1,EX-YU | Pink BiH
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120491
+#EXTINF:-1,EX-YU | Pink Comedy
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120490
+#EXTINF:-1,EX-YU | Pink Crime & Mistery
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120489
+#EXTINF:-1,EX-YU | Pink Film
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120488
+#EXTINF:-1,EX-YU | Pink Folk 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120487
+#EXTINF:-1,EX-YU | Pink Horor
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120486
+#EXTINF:-1,EX-YU | Pink M
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120485
+#EXTINF:-1,EX-YU | Pink Moves
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120484
+#EXTINF:-1,EX-YU | Pink Plus
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120483
+#EXTINF:-1,EX-YU | Pink Premium
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120482
+#EXTINF:-1,EX-YU | Pink Romance
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120481
+#EXTINF:-1,EX-YU | Pink Sci-fi & Fantasy
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120480
+#EXTINF:-1,EX-YU | Pink Serije
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120479
+#EXTINF:-1,EX-YU | Pink Thriller
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120478
+#EXTINF:-1,EX-YU | Pink Western
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120477
+#EXTINF:-1,EX-YU | Pink World
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120476
+#EXTINF:-1,EX-YU | Prva
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120475
+#EXTINF:-1,EX-YU | Prva Max
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120474
+#EXTINF:-1,EX-YU | Prva Plus
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120473
+#EXTINF:-1,EX-YU | Prva World
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120472
+#EXTINF:-1,EX-YU | PTC 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120471
+#EXTINF:-1,EX-YU | PTC 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120470
+#EXTINF:-1,EX-YU | PTC 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120469
+#EXTINF:-1,EX-YU | PTC 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120468
+#EXTINF:-1,EX-YU | RTCG Sat
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120467
+#EXTINF:-1,EX-YU | RTL
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120466
+#EXTINF:-1,EX-YU | RTL 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120465
+#EXTINF:-1,EX-YU | RTL Crime (HR)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120464
+#EXTINF:-1,EX-YU | RTL Living
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120463
+#EXTINF:-1,EX-YU | RTL Passion (HR)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120462
+#EXTINF:-1,EX-YU | RTRS
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120461
+#EXTINF:-1,EX-YU | RTV BANOVINA
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120460
+#EXTINF:-1,EX-YU | Sitel (Mk)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120459
+#EXTINF:-1,EX-YU | Sport Klub 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120458
+#EXTINF:-1,EX-YU | Sport Klub 1 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120457
+#EXTINF:-1,EX-YU | Sport Klub 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120456
+#EXTINF:-1,EX-YU | Sport Klub 2 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120455
